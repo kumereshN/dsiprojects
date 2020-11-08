@@ -43,3 +43,30 @@ Comparisons were made at these sites:
 #### Additional Data
 
 2018 state-by-state average results and participation for the SAT are available in PDF reports [here](https://reports.collegeboard.org/sat-suite-program-results/state-results). 2018 ACT state-by-state mean composite scores and participation rates are [here](http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf).
+
+---
+## Data Dictionary
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|final|State of the data| 
+|sat_17_participation|float|final|State participation rate in 2017|
+|sat_17_erw|integer|final|State average Evidence-Based Reading and Writing score in 2017|
+|sat_17_math|integer|final|State average Math score in 2017|
+|sat_17_total|integer|final|State average Total score in 2017|
+|act_17_participation|float|final|State participation rate in 2017|
+|act_17_english|float|final|State average English score in 2017|
+|act_17_math|float|final|State average Math score in 2017|
+|act_17_reading|float|final|State average Reading score in 2017|
+|act_17_science|float|final|State average Science score in 2017|
+|act_17_composite|float|final|State average Composite score in 2017|
+|sat_18_participation|float|final|State participation rate in 2018|
+|sat_18_erw|integer|final|State average Evidence-Based Reading and Writing score in 2018|
+|sat_18_math|integer|final|State average Math score in 2018|
+|sat_18_total|integer|final|State average Total score in 2018|
+|act_18_participation|float|final|State participation rate in 2018|
+|act_18_english|float|final|State average English score in 2018|
+|act_18_math|float|final|State average Math score in 2018|
+|act_18_reading|float|final|State average Reading score in 2018|
+|act_18_science|float|final|State average Science score in 2018|
+|act_18_composite|float|final|State average Composite score in 2018|
