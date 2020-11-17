@@ -959,7 +959,6 @@ Reg,AllPub,Gtl,Gd,TA,Gd,TA,No,Unf,Unf,Ex,SBrkr,1,Gd,Typ,Gd,RFn,TA,TA,Y
 IR1,AllPub,Gtl,TA,TA,TA,TA,No,Unf,Unf,Gd,SBrkr,1,Gd,Typ,Gd,RFn,TA,TA,Y
 IR1,AllPub,Gtl,Gd,TA,Gd,TA,Mn,GLQ,Unf,Ex,SBrkr,1,Gd,Typ,TA,Fin,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,No,Unf,Unf,Ex,SBrkr,1,TA,Typ,Gd,Unf,TA,TA,Y
-IR3,AllPub,Gtl,Ex,TA,Ex,TA,Gd,GLQ,Unf,Ex,SBrkr,1,Ex,Typ,Gd,Fin,TA,TA,Y
 Reg,AllPub,Gtl,TA,Gd,Gd,TA,Av,ALQ,Unf,Ex,SBrkr,1,TA,Typ,Gd,Unf,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,Av,BLQ,Unf,Ex,SBrkr,1,TA,Typ,TA,Fin,TA,TA,Y
 Reg,AllPub,Gtl,Gd,TA,Gd,TA,Av,GLQ,Unf,Ex,SBrkr,1,Gd,Typ,Gd,RFn,TA,TA,Y
@@ -1884,7 +1883,6 @@ IR2,AllPub,Gtl,Gd,TA,Gd,TA,Mn,GLQ,Unf,Ex,SBrkr,1,Gd,Typ,Gd,RFn,TA,TA,Y
 IR1,AllPub,Gtl,Gd,TA,Gd,TA,No,GLQ,Unf,Ex,SBrkr,1,Gd,Typ,Gd,Fin,TA,TA,Y
 Reg,AllPub,Gtl,Gd,TA,Gd,TA,No,Unf,Unf,Ex,SBrkr,1,Gd,Typ,Gd,Fin,TA,TA,Y
 IR1,AllPub,Gtl,TA,TA,TA,TA,No,BLQ,Unf,TA,SBrkr,1,TA,Typ,Gd,Fin,TA,TA,Y
-IR1,AllPub,Gtl,Ex,TA,Ex,TA,Gd,GLQ,Unf,Ex,SBrkr,1,Ex,Typ,Gd,Fin,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,No,Unf,Unf,Gd,SBrkr,1,TA,Typ,Gd,Unf,TA,TA,Y
 Reg,AllPub,Gtl,TA,Gd,TA,Gd,Gd,GLQ,Unf,TA,SBrkr,1,TA,Typ,Po,Unf,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,Gd,TA,No,ALQ,Unf,TA,SBrkr,1,TA,Typ,TA,Unf,TA,TA,Y

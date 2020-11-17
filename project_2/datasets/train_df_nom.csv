@@ -959,7 +959,6 @@ split_or_multilevel,RL,Pave,Lvl,Corner,Edwards,Norm,Norm,1Fam,SLvl,Gable,CompShg
 1story_1946_&_newer_all_styles,RL,Pave,Lvl,Inside,NWAmes,PosN,Norm,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Y,Attchd,WD 
 2story_1946_&_newer,RL,Pave,Lvl,Inside,CollgCr,Norm,Norm,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Y,Attchd,WD 
 1story_1946_&_newer_all_styles,RL,Pave,HLS,Inside,Edwards,Norm,Norm,1Fam,1Story,Hip,CompShg,WdShing,Wd Shng,None,CBlock,GasA,Y,Attchd,WD 
-2story_1946_&_newer,RL,Pave,Bnk,Corner,Edwards,Feedr,Norm,1Fam,2Story,Hip,ClyTile,Stucco,Stucco,Stone,PConc,GasA,Y,Attchd,New
 split_foyer,RL,Pave,Lvl,Inside,Mitchel,Norm,Norm,1Fam,SFoyer,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Y,Detchd,WD 
 1story_1946_&_newer_all_styles,RL,Pave,Lvl,Inside,NAmes,Norm,Norm,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Y,Attchd,WD 
 2story_pud__1946_&_newer,FV,Pave,Lvl,Inside,Somerst,Norm,Norm,TwnhsE,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Y,Detchd,New
@@ -1884,7 +1883,6 @@ duplex__all_styles_and_ages,RL,Pave,Lvl,Inside,Mitchel,Norm,Norm,Duplex,1Story,G
 2story_1946_&_newer,RL,Pave,Lvl,Inside,Gilbert,Norm,Norm,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Y,BuiltIn,WD 
 2story_1946_&_newer,RL,Pave,Lvl,Inside,Gilbert,RRAn,Norm,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Y,Attchd,New
 2story_1946_&_newer,RL,Pave,Bnk,Corner,Edwards,Norm,Norm,1Fam,2Story,Hip,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,Y,Attchd,WD 
-1story_1946_&_newer_all_styles,RL,Pave,Bnk,Inside,Edwards,Norm,Norm,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Y,Attchd,New
 1story_1946_&_newer_all_styles,RL,Pave,Lvl,Inside,NWAmes,Norm,Norm,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,Y,Attchd,WD 
 1story_1946_&_newer_all_styles,RL,Pave,Lvl,Inside,NAmes,Norm,Norm,1Fam,1Story,Flat,Tar&Grv,Plywood,Plywood,None,CBlock,GasA,Y,Attchd,WD 
 2story_pud__1946_&_newer,RL,Pave,Lvl,FR2,NPkVill,Norm,Norm,Twnhs,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,Y,Attchd,WD 
