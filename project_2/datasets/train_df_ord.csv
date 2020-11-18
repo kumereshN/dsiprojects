@@ -40,7 +40,6 @@ IR1,AllPub,Gtl,TA,TA,Gd,TA,No,BLQ,Unf,Ex,SBrkr,1,TA,Typ,TA,RFn,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,No,ALQ,Unf,Fa,SBrkr,1,TA,Typ,TA,Unf,TA,TA,Y
 IR2,AllPub,Gtl,TA,Gd,Gd,Gd,No,GLQ,Unf,Ex,SBrkr,1,TA,Typ,Gd,Unf,TA,TA,Y
 Reg,AllPub,Gtl,Gd,TA,TA,TA,No,BLQ,LwQ,Gd,SBrkr,1,TA,Typ,Gd,Fin,TA,TA,Y
-Reg,AllPub,Gtl,Ex,TA,Ex,Gd,Gd,GLQ,Unf,Ex,SBrkr,1,Ex,Typ,Gd,Fin,TA,TA,Y
 IR1,AllPub,Gtl,TA,Gd,Gd,TA,Av,GLQ,Unf,Ex,SBrkr,1,Gd,Typ,TA,Fin,TA,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,No,Unf,Unf,Ex,FuseF,1,TA,Typ,Gd,Unf,Fa,TA,Y
 Reg,AllPub,Gtl,TA,TA,TA,TA,No,Rec,Unf,Ex,SBrkr,1,TA,Typ,Gd,Unf,TA,TA,Y
