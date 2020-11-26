@@ -1,0 +1,1179 @@
+approved_at_utc,subreddit,selftext,author_fullname,saved,mod_reason_title,gilded,clicked,title,link_flair_richtext,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,top_awarded_type,hide_score,name,quarantine,link_flair_text_color,upvote_ratio,author_flair_background_color,subreddit_type,ups,total_awards_received,media_embed,author_flair_template_id,is_original_content,user_reports,secure_media,is_reddit_media_domain,is_meta,category,secure_media_embed,link_flair_text,can_mod_post,score,approved_by,author_premium,thumbnail,edited,author_flair_css_class,author_flair_richtext,gildings,content_categories,is_self,mod_note,created,link_flair_type,wls,removed_by_category,banned_by,author_flair_type,domain,allow_live_comments,selftext_html,likes,suggested_sort,banned_at_utc,view_count,archived,no_follow,is_crosspostable,pinned,over_18,all_awardings,awarders,media_only,can_gild,spoiler,locked,author_flair_text,treatment_tags,visited,removed_by,num_reports,distinguished,subreddit_id,mod_reason_by,removal_reason,link_flair_background_color,id,is_robot_indexable,report_reasons,author,discussion_type,num_comments,send_replies,whitelist_status,contest_mode,mod_reports,author_patreon_flair,author_flair_text_color,permalink,parent_whitelist_status,stickied,url,subreddit_subscribers,created_utc,num_crossposts,media,is_video
+,investing,"Alright everyone, it looks like we had pretty broad support in [this thread](https://www.reddit.com/r/investing/comments/cuuo6j/yooo_get_in_here_peeps_state_of_the_subreddit/) when it comes to cracking down on the hyper partisanship that's been spilling out of the political subreddits to all corners of reddit.  In this thread I'm going to lay out some formal guidelines for comments on political topics.  Since this is so widespread I want to be clear here: this post is everyone's formal warning.  That means temporary or in some cases permanent bans are being handed out for people who violate said guidelines immediately.  This is really the only way to deal wit this issue.  I'm going to try to get automod to sticky applicable threads with this post as well.   
+
+**First lets address politics**
+
+I want to note something first: we are absolutely enforcing higher posting standards for political threads.  I think it's entirely uncontroversial to point out that calling Warren Buffett an asshole doesn't nearly stir up the anger that calling any given political figure an asshole will.  Comments like that being upvoted quickly derail threads and drive the discussion away from investing.  
+
+**So here's the simple guideline which I'll expand on: you're free to express your opinion so long as it's tied to investing, you put effort in to it, and it's civil.**  We're not here to stop the free flow of discussion or ideas but we are here to keep discussion surrounding investing and civil.
+
+**Tied to investing:** this should be pretty straightforward but I'm laying it out here anyway.  Investing encompasses markets, economic impacts, corporate profits, shifts in the yield curve, the federal reserve, taxes, potential government spending that may impact your portfolio.  
+
+Investing does not encompass immigration, personal lives of politicians, social issues, climate change(unless specifically within the context of impact to energy or similar), how you feel about a particular news organization's potential biases, etc.  If it's not in the first list it's probably not investing related.  Making comments pertaining to non investment related politics only serves to drive the conversation off course and create a thread that is indistinguishable from one in a political subreddit.  Driving conversation off topic in high level comments by bringing up politics in unrelated threads also falls in this category.  
+
+**Effort:** no shitposts.  If you're not conveying a thought or analysis of a particular subject then it's probably best to not post.  Furthermore top level comments like ""fuck my portfolio"" don't help keeping conversation on track.  Lastly and most importantly anything that falls in to the political meme universe isn't going to fly here.  That means if you're repeating something like TDS, MAGA, trade wars are good and easy to win, Pocahontas, orange man bad, any of the millions of nicknames for the president, very stable genius, any given childish spin on Democrat/republican(ex DemocRAT or Republitard), etc isn't tolerated.  These sorts of things only serve to agitate those on the opposite end of the political spectrum and create partisan arguments.
+
+Your post should be something like ""I disagree/agree with Trump here because [policy] will do XYZ which is good/bad for ABC and blah blah blah blah"".  If you are unable to express an investment related position on a topic without insults and memes then you probably should just go to a political subreddit and comment there.
+
+Special note here: conspiracy theories about politics and markets are not allowed.  If you are going to imply criminal market manipulation or insider trading proof in the form of reporting or other documentation is necessary.  This is not a place for baseless accusations derived from political leaning. 
+
+**Civility:** so we already don't allow personal attacks here.  Generally speaking many people identify so closely with political parties and politicians that they react to political attacks the same way they will to personal attacks.  I get it, people get worked up over politics.  Translating that emotion to a post here only serves to have people with opposing views get similarly worked up.  This isn't an appropriate subreddit for that.  We're here to discuss investing.  So any comment that would violate our personal attacks rule if you made it towards another user is prohibited against political parties or figures.  /r/investing is not a platform for people to express their outrage towards politicians or political parties.  There are tons of subreddits for that sort of thing. 
+
+So now that the guidelines are made clear, here's the consequences.  In our observation the vast majority of people engaging in political attacks and low effort posts are not regular contributors.  They tend to frequent political subreddits and engage in political attacks elsewhere.  So we're automatically handing out 30 day bans for violation of the above rules.  If you feel like your ban was in error or unfair you can appeal in modmail but we're not really inclined to reverse decisions if you aren't already a regular contributor.  For egregious offenses the ban may be 60 days or permanent.  For overt racism, death threats against any public figure, or similar there is an automatic permanent ban.   
+
+**Now Corporate vs Investment News**
+
+/u/crasymike did an awesome job laying out the general guidelines here: https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/
+
+I'm going to just copy some of the hard guidelines here so they're in the same place but take a look at that thread to see a full explanation.
+
+tl;dr Not all corporate news is investment news. If you post a topic the onus is on you to guide the discussion towards investing. If the moderators feel that a topic lacks relevance (which is more clearly defined below) then it might be removed. Off-topic top-level comments have similar standards applied to them.
+
+This means that the onus is on you as the person posting the topic to guide the discussion. As moderators all we can do is remove offending comments, but we can't incite relevant discussion in every topic.
+
+Tell us, why is this political news impactful? Seek out an article that discusses market impacts rather than a generic article. If you want to post corporate news then find an article that includes the impact on the investment. Copy that information into the body of your post. Include price history. Add other pertinent links or details for the corporate.
+
+If you include no relevant investing information then don't be surprised if the topic is completely derailed from discussing investing. If you are posting a topic you need to invite people to talk about investing by using an article, or including information, that is pertinent to investors.
+
+As moderators, we have a few policies that we use to guide ourselves. This is a broad rule that requires some interpretation, but here we go:
+
+* If we can't figure out how your topic relates to investing, and the article doesn't include any (or extremely little) market news, and the body of your post doesn't link the topic to investing we will probably remove it as off-topic.
+
+*  If your topic has an indirect relation to investing (such as being about a public company, or is major market shifting news) but you included no market information and the article(s) you linked have no investing information we may remove it if we feel that there is no clear reason to expect on-topic comments.
+
+* If someone posts a top-level comment on a thread that completely derails away from investing we will probably remove it.
+
+**If the policies above would result in the modteam seemingly needing to remove nearly every top level comment in a thread, and we felt like your thread is ""borderline"" not investing news, then we will take this as confirmation that the topic wasn't investing news.  If the entire conversation in a thread is already driven off topic by political attacks or off topic discussion we will lock and remove a thread no matter how topical it is.  Please do your part and downvote/report political attacks even if you agree with them.  This will prevent us from just nuking a thread**",t2_p8vmm,False,,1,False,Formal posting guidelines for political topics and what constitutes investment vs corporate news. **READ BEFORE COMMENTING IN THIS SUB PLEASE**,[],r/investing,False,6,,0,,False,t3_cyee69,False,dark,0.95,,public,270,2,{},,False,[],,False,False,,{},,False,270,,False,,1567518369.0,,[],{'gid_2': 1},,True,,1567395088.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Alright everyone, it looks like we had pretty broad support in &lt;a href=""https://www.reddit.com/r/investing/comments/cuuo6j/yooo_get_in_here_peeps_state_of_the_subreddit/""&gt;this thread&lt;/a&gt; when it comes to cracking down on the hyper partisanship that&amp;#39;s been spilling out of the political subreddits to all corners of reddit.  In this thread I&amp;#39;m going to lay out some formal guidelines for comments on political topics.  Since this is so widespread I want to be clear here: this post is everyone&amp;#39;s formal warning.  That means temporary or in some cases permanent bans are being handed out for people who violate said guidelines immediately.  This is really the only way to deal wit this issue.  I&amp;#39;m going to try to get automod to sticky applicable threads with this post as well.   &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First lets address politics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to note something first: we are absolutely enforcing higher posting standards for political threads.  I think it&amp;#39;s entirely uncontroversial to point out that calling Warren Buffett an asshole doesn&amp;#39;t nearly stir up the anger that calling any given political figure an asshole will.  Comments like that being upvoted quickly derail threads and drive the discussion away from investing.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So here&amp;#39;s the simple guideline which I&amp;#39;ll expand on: you&amp;#39;re free to express your opinion so long as it&amp;#39;s tied to investing, you put effort in to it, and it&amp;#39;s civil.&lt;/strong&gt;  We&amp;#39;re not here to stop the free flow of discussion or ideas but we are here to keep discussion surrounding investing and civil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tied to investing:&lt;/strong&gt; this should be pretty straightforward but I&amp;#39;m laying it out here anyway.  Investing encompasses markets, economic impacts, corporate profits, shifts in the yield curve, the federal reserve, taxes, potential government spending that may impact your portfolio.  &lt;/p&gt;
+
+&lt;p&gt;Investing does not encompass immigration, personal lives of politicians, social issues, climate change(unless specifically within the context of impact to energy or similar), how you feel about a particular news organization&amp;#39;s potential biases, etc.  If it&amp;#39;s not in the first list it&amp;#39;s probably not investing related.  Making comments pertaining to non investment related politics only serves to drive the conversation off course and create a thread that is indistinguishable from one in a political subreddit.  Driving conversation off topic in high level comments by bringing up politics in unrelated threads also falls in this category.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Effort:&lt;/strong&gt; no shitposts.  If you&amp;#39;re not conveying a thought or analysis of a particular subject then it&amp;#39;s probably best to not post.  Furthermore top level comments like &amp;quot;fuck my portfolio&amp;quot; don&amp;#39;t help keeping conversation on track.  Lastly and most importantly anything that falls in to the political meme universe isn&amp;#39;t going to fly here.  That means if you&amp;#39;re repeating something like TDS, MAGA, trade wars are good and easy to win, Pocahontas, orange man bad, any of the millions of nicknames for the president, very stable genius, any given childish spin on Democrat/republican(ex DemocRAT or Republitard), etc isn&amp;#39;t tolerated.  These sorts of things only serve to agitate those on the opposite end of the political spectrum and create partisan arguments.&lt;/p&gt;
+
+&lt;p&gt;Your post should be something like &amp;quot;I disagree/agree with Trump here because [policy] will do XYZ which is good/bad for ABC and blah blah blah blah&amp;quot;.  If you are unable to express an investment related position on a topic without insults and memes then you probably should just go to a political subreddit and comment there.&lt;/p&gt;
+
+&lt;p&gt;Special note here: conspiracy theories about politics and markets are not allowed.  If you are going to imply criminal market manipulation or insider trading proof in the form of reporting or other documentation is necessary.  This is not a place for baseless accusations derived from political leaning. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Civility:&lt;/strong&gt; so we already don&amp;#39;t allow personal attacks here.  Generally speaking many people identify so closely with political parties and politicians that they react to political attacks the same way they will to personal attacks.  I get it, people get worked up over politics.  Translating that emotion to a post here only serves to have people with opposing views get similarly worked up.  This isn&amp;#39;t an appropriate subreddit for that.  We&amp;#39;re here to discuss investing.  So any comment that would violate our personal attacks rule if you made it towards another user is prohibited against political parties or figures.  &lt;a href=""/r/investing""&gt;/r/investing&lt;/a&gt; is not a platform for people to express their outrage towards politicians or political parties.  There are tons of subreddits for that sort of thing. &lt;/p&gt;
+
+&lt;p&gt;So now that the guidelines are made clear, here&amp;#39;s the consequences.  In our observation the vast majority of people engaging in political attacks and low effort posts are not regular contributors.  They tend to frequent political subreddits and engage in political attacks elsewhere.  So we&amp;#39;re automatically handing out 30 day bans for violation of the above rules.  If you feel like your ban was in error or unfair you can appeal in modmail but we&amp;#39;re not really inclined to reverse decisions if you aren&amp;#39;t already a regular contributor.  For egregious offenses the ban may be 60 days or permanent.  For overt racism, death threats against any public figure, or similar there is an automatic permanent ban.   &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now Corporate vs Investment News&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""/u/crasymike""&gt;/u/crasymike&lt;/a&gt; did an awesome job laying out the general guidelines here: &lt;a href=""https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/""&gt;https://www.reddit.com/r/investing/comments/b3ss3q/topics_being_removed_corporate_news_vs_investor/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to just copy some of the hard guidelines here so they&amp;#39;re in the same place but take a look at that thread to see a full explanation.&lt;/p&gt;
+
+&lt;p&gt;tl;dr Not all corporate news is investment news. If you post a topic the onus is on you to guide the discussion towards investing. If the moderators feel that a topic lacks relevance (which is more clearly defined below) then it might be removed. Off-topic top-level comments have similar standards applied to them.&lt;/p&gt;
+
+&lt;p&gt;This means that the onus is on you as the person posting the topic to guide the discussion. As moderators all we can do is remove offending comments, but we can&amp;#39;t incite relevant discussion in every topic.&lt;/p&gt;
+
+&lt;p&gt;Tell us, why is this political news impactful? Seek out an article that discusses market impacts rather than a generic article. If you want to post corporate news then find an article that includes the impact on the investment. Copy that information into the body of your post. Include price history. Add other pertinent links or details for the corporate.&lt;/p&gt;
+
+&lt;p&gt;If you include no relevant investing information then don&amp;#39;t be surprised if the topic is completely derailed from discussing investing. If you are posting a topic you need to invite people to talk about investing by using an article, or including information, that is pertinent to investors.&lt;/p&gt;
+
+&lt;p&gt;As moderators, we have a few policies that we use to guide ourselves. This is a broad rule that requires some interpretation, but here we go:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If we can&amp;#39;t figure out how your topic relates to investing, and the article doesn&amp;#39;t include any (or extremely little) market news, and the body of your post doesn&amp;#39;t link the topic to investing we will probably remove it as off-topic.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If your topic has an indirect relation to investing (such as being about a public company, or is major market shifting news) but you included no market information and the article(s) you linked have no investing information we may remove it if we feel that there is no clear reason to expect on-topic comments.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If someone posts a top-level comment on a thread that completely derails away from investing we will probably remove it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;If the policies above would result in the modteam seemingly needing to remove nearly every top level comment in a thread, and we felt like your thread is &amp;quot;borderline&amp;quot; not investing news, then we will take this as confirmation that the topic wasn&amp;#39;t investing news.  If the entire conversation in a thread is already driven off topic by political attacks or off topic discussion we will lock and remove a thread no matter how topical it is.  Please do your part and downvote/report political attacks even if you agree with them.  This will prevent us from just nuking a thread&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,True,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 500, 'id': 'gid_2', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 100, 'icon_url': 'https://www.redditstatic.com/gold/awards/icon/gold_512.png', 'days_of_premium': 7, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/gold_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_128.png', 'width': 128, 'height': 128}], 'icon_width': 512, 'static_icon_width': 512, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Gives the author a week of Reddit Premium, %{coin_symbol}100 Coins to do with as they please, and shows a Gold Award.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 512, 'name': 'Gold', 'resized_static_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/gold_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/gold_128.png', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 512, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://www.redditstatic.com/gold/awards/icon/gold_512.png'}, {'giver_coin_reward': 0, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 100, 'id': 'award_74fe5152-7906-4991-9016-bc2d8e261200', 'penny_donate': 0, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=16&amp;height=16&amp;auto=webp&amp;s=094da86916604f4fc9f7f63c827e31c976f00928', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=32&amp;height=32&amp;auto=webp&amp;s=52886a42b9871ec69a4465609472a864dbab27b1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=48&amp;height=48&amp;auto=webp&amp;s=63a8f5eff627778a221c58daffbfbbb87b7fe350', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=64&amp;height=64&amp;auto=webp&amp;s=da0d9de08517646db45b766dbb0e7b94d2e97312', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=128&amp;height=128&amp;auto=webp&amp;s=58d3501a4314be9d47349a1f7925e18f30a832e5', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': False, 'awardings_required_to_grant_benefits': None, 'description': ""I don't know what to do with my hands!"", 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Excited', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=16&amp;height=16&amp;auto=webp&amp;s=094da86916604f4fc9f7f63c827e31c976f00928', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=32&amp;height=32&amp;auto=webp&amp;s=52886a42b9871ec69a4465609472a864dbab27b1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=48&amp;height=48&amp;auto=webp&amp;s=63a8f5eff627778a221c58daffbfbbb87b7fe350', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=64&amp;height=64&amp;auto=webp&amp;s=da0d9de08517646db45b766dbb0e7b94d2e97312', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=128&amp;height=128&amp;auto=webp&amp;s=58d3501a4314be9d47349a1f7925e18f30a832e5', 'width': 128, 'height': 128}], 'icon_format': 'PNG', 'icon_height': 2048, 'penny_price': 0, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png'}]",[],False,False,False,True,,[],False,,,,t5_2qhhq,,,,cyee69,True,,MasterCookSwag,,0,True,all_ads,False,[],False,,/r/investing/comments/cyee69/formal_posting_guidelines_for_political_topics/,all_ads,True,https://www.reddit.com/r/investing/comments/cyee69/formal_posting_guidelines_for_political_topics/,1209704,1567366288.0,2,,False
+,investing,"If your question is ""I have $10,000, what do I do?"" or other ""advice for my personal situation"" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!",t2_6l4z3,False,,0,False,Daily Advice Thread - All basic help or advice questions must be posted here.,[],r/investing,False,6,,0,,True,t3_k1e64o,False,dark,1.0,,public,1,0,{},,False,[],,False,False,,{},,False,1,,True,,False,,[],{},,True,,1606421350.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;If your question is &amp;quot;I have $10,000, what do I do?&amp;quot; or other &amp;quot;advice for my personal situation&amp;quot; questions. If you are going to ask how to invest you should include relevant information, such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How old are you?&lt;/li&gt;
+&lt;li&gt;Are you employed/making income? How much?&lt;/li&gt;
+&lt;li&gt;What are your objectives with this money? (buy a house? Retirement savings?)&lt;/li&gt;
+&lt;li&gt;What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)&lt;/li&gt;
+&lt;li&gt;What are you current holdings? (Do you already have exposure to specific funds and sectors?)&lt;/li&gt;
+&lt;li&gt;Any other assets? House paid off? Cars? Expensive significant other?&lt;/li&gt;
+&lt;li&gt;What is your time horizon? Do you need this money next month? Next 20yrs?&lt;/li&gt;
+&lt;li&gt;Any big debts?&lt;/li&gt;
+&lt;li&gt;Any other relevant financial information will be useful to give you a proper answer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please consider consulting our FAQ first - &lt;a href=""https://www.reddit.com/r/investing/wiki/faq""&gt;https://www.reddit.com/r/investing/wiki/faq&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,new,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_2qhhq,,,,k1e64o,True,,AutoModerator,,2,False,all_ads,False,[],False,,/r/investing/comments/k1e64o/daily_advice_thread_all_basic_help_or_advice/,all_ads,True,https://www.reddit.com/r/investing/comments/k1e64o/daily_advice_thread_all_basic_help_or_advice/,1209704,1606392550.0,0,,False
+,investing,"This is a sign that the stock is being bought not just by retail investors but also by institutional investors.
+
+Otherwise, the share wouldn’t have rose around 20% today.
+
+The amount of buying pressure and momentum in this stock is insane.
+
+Not to mention the unusual options activity that's going on right now. Though this is probably being fuelled mostly by retail investors.",t2_7r79rqlg,False,,0,False,202.56M shares traded hands on PLTR today,[],r/investing,False,6,,0,,False,t3_k17akp,False,dark,0.97,,public,837,3,{},,False,[],,False,False,,{},,False,837,,False,,False,,[],{},,True,,1606389503.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This is a sign that the stock is being bought not just by retail investors but also by institutional investors.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, the share wouldn’t have rose around 20% today.&lt;/p&gt;
+
+&lt;p&gt;The amount of buying pressure and momentum in this stock is insane.&lt;/p&gt;
+
+&lt;p&gt;Not to mention the unusual options activity that&amp;#39;s going on right now. Though this is probably being fuelled mostly by retail investors.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 30, 'id': 'award_b4ff447e-05a5-42dc-9002-63568807cfe6', 'penny_donate': None, 'award_sub_type': 'PREMIUM', 'coin_reward': 0, 'icon_url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'A glowing commendation for all to see', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'All-Seeing Upvote', 'resized_static_icons': [{'url': 'https://external-preview.redd.it?width=16&amp;height=16&amp;auto=webp&amp;s=d88c9a453f8ac38850b7a8241cfe5804b7b4905d', 'width': 16, 'height': 16}, {'url': 'https://external-preview.redd.it?width=32&amp;height=32&amp;auto=webp&amp;s=96a25019eb75878bdec4f6c012540f3baffbb1b2', 'width': 32, 'height': 32}, {'url': 'https://external-preview.redd.it?width=48&amp;height=48&amp;auto=webp&amp;s=1a51d27d75afde3fbde8bba84f9338f511211461', 'width': 48, 'height': 48}, {'url': 'https://external-preview.redd.it?width=64&amp;height=64&amp;auto=webp&amp;s=96af5ec460b05669ed60224cb0619bb8884abe27', 'width': 64, 'height': 64}, {'url': 'https://external-preview.redd.it?width=128&amp;height=128&amp;auto=webp&amp;s=2d3e648ed2302e6258673051ca5291f57beb29d4', 'width': 128, 'height': 128}], 'icon_format': 'APNG', 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png'}, {'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 200, 'id': 'award_d125d124-5c03-490d-af3d-d07c462003da', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=16&amp;height=16&amp;auto=webp&amp;s=3bdbd7660aa0164072a243b6df9100da769e8278', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=32&amp;height=32&amp;auto=webp&amp;s=30aa8ad7b30c73defb1b1b49dc055f42c8c39fcc', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=48&amp;height=48&amp;auto=webp&amp;s=a5109b271dbe4f27927ee8bac7f23d1962a44936', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=64&amp;height=64&amp;auto=webp&amp;s=6d6ca632d8c63e6d4e41ff8dbe4600528a4445b2', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=128&amp;height=128&amp;auto=webp&amp;s=1f2ed12b4e132e68d553c702d6639a3dc065821c', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'To the MOON.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Stonks Rising', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=16&amp;height=16&amp;auto=webp&amp;s=3bdbd7660aa0164072a243b6df9100da769e8278', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=32&amp;height=32&amp;auto=webp&amp;s=30aa8ad7b30c73defb1b1b49dc055f42c8c39fcc', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=48&amp;height=48&amp;auto=webp&amp;s=a5109b271dbe4f27927ee8bac7f23d1962a44936', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=64&amp;height=64&amp;auto=webp&amp;s=6d6ca632d8c63e6d4e41ff8dbe4600528a4445b2', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png?width=128&amp;height=128&amp;auto=webp&amp;s=1f2ed12b4e132e68d553c702d6639a3dc065821c', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/s5edqq9abef41_StonksRising.png'}, {'giver_coin_reward': 0, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 80, 'id': 'award_8352bdff-3e03-4189-8a08-82501dd8f835', 'penny_donate': 0, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Everything is better with a good hug', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Hugz', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f', 'width': 128, 'height': 128}], 'icon_format': 'PNG', 'icon_height': 2048, 'penny_price': 0, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k17akp,True,,potatoandbiscuit,,287,True,all_ads,False,[],False,,/r/investing/comments/k17akp/20256m_shares_traded_hands_on_pltr_today/,all_ads,False,https://www.reddit.com/r/investing/comments/k17akp/20256m_shares_traded_hands_on_pltr_today/,1209704,1606360703.0,1,,False
+,investing,"&amp;#x200B;
+
+The Securities and Exchange Commission announced a new proposal on Tuesday, which could allow companies like Uber Technologies Inc (NYSE: UBER) and LYFT Inc (NASDAQ: LYFT), and DoorDash to compensate gig economy workers in equity.
+
+What Happened: The regulator has proposed a pilot program for tech aggregators that hire gig economy workers or drivers, under which the companies can pay up to 15% of the worker compensation (not exceeding $75,000 in three years) in stock rather than cash.
+
+SEC Chairman Jay Clayton clarified the rationale behind the proposal by saying work relationships have evolved along with technology, and gig economy workers are a vital cog in the broader U.S. economy's growth.
+
+The proposal will be open to a 60-day public comment period and may come into force only under the new leadership chosen by President-elect Joe Biden.
+
+Why It Matters: California attorney general had sued both Uber and Lyft earlier this year for not following the California Assembly Bill 5, which forced aggregators to reclassify workers as employees, making them entitled to similar benefits. However, the ride-hailing companies won the Proposition 22 referendum that exempts it from reclassifying gig workers. 
+
+In a bid to garner support for the referendum, the companies had guaranteed other benefits such as health insurance for drivers who work 15 hours or more a week, occupational-accident insurance coverage, and 30 cents for every mile driven, among other protections.",t2_64kbe7ff,False,,0,False,"Uber, Lyft, Doordash Can Pay Gig Workers Up To 15% Compensation in Stock Under New SEC proposal",[],r/investing,False,6,,0,,False,t3_k0qn1k,False,dark,0.97,,public,1136,3,{},,False,[],,False,False,,{},,False,1136,,False,,False,,[],{'gid_1': 1},,True,,1606333020.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;The Securities and Exchange Commission announced a new proposal on Tuesday, which could allow companies like Uber Technologies Inc (NYSE: UBER) and LYFT Inc (NASDAQ: LYFT), and DoorDash to compensate gig economy workers in equity.&lt;/p&gt;
+
+&lt;p&gt;What Happened: The regulator has proposed a pilot program for tech aggregators that hire gig economy workers or drivers, under which the companies can pay up to 15% of the worker compensation (not exceeding $75,000 in three years) in stock rather than cash.&lt;/p&gt;
+
+&lt;p&gt;SEC Chairman Jay Clayton clarified the rationale behind the proposal by saying work relationships have evolved along with technology, and gig economy workers are a vital cog in the broader U.S. economy&amp;#39;s growth.&lt;/p&gt;
+
+&lt;p&gt;The proposal will be open to a 60-day public comment period and may come into force only under the new leadership chosen by President-elect Joe Biden.&lt;/p&gt;
+
+&lt;p&gt;Why It Matters: California attorney general had sued both Uber and Lyft earlier this year for not following the California Assembly Bill 5, which forced aggregators to reclassify workers as employees, making them entitled to similar benefits. However, the ride-hailing companies won the Proposition 22 referendum that exempts it from reclassifying gig workers. &lt;/p&gt;
+
+&lt;p&gt;In a bid to garner support for the referendum, the companies had guaranteed other benefits such as health insurance for drivers who work 15 hours or more a week, occupational-accident insurance coverage, and 30 cents for every mile driven, among other protections.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 125, 'id': 'award_5f123e3d-4f48-42f4-9c11-e98b566d5897', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'When you come across a feel-good thing.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 2, 'static_icon_height': 2048, 'name': 'Wholesome', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png'}, {'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 100, 'id': 'gid_1', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_width': 512, 'static_icon_width': 512, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': ""Shows the Silver Award... and that's it."", 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 512, 'name': 'Silver', 'resized_static_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 512, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0qn1k,True,,OfficerTruth,,346,True,all_ads,False,[],False,,/r/investing/comments/k0qn1k/uber_lyft_doordash_can_pay_gig_workers_up_to_15/,all_ads,False,https://www.reddit.com/r/investing/comments/k0qn1k/uber_lyft_doordash_can_pay_gig_workers_up_to_15/,1209704,1606304220.0,0,,False
+,investing,"[https://www.marketwatch.com/story/slacks-stock-spikes-up-after-wsj-report-of-buyout-talks-with-salesforce-2020-11-25](https://www.marketwatch.com/story/slacks-stock-spikes-up-after-wsj-report-of-buyout-talks-with-salesforce-2020-11-25)
+
+WORK spiked up and was temporarily halted on the news that came from The Wall Street Journal. They have been in a very competitive field this year and Salesforce seems to have plans for them.",t2_1030bt,False,,0,False,Slack Technologies (WORK) reportedly has been in talks to get acquired by Salesforce (CRM),[],r/investing,False,6,,0,,False,t3_k0vy12,False,dark,0.97,,public,383,1,{},,False,[],,False,False,,{},,False,383,,False,,False,,[],{},,True,,1606352478.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.marketwatch.com/story/slacks-stock-spikes-up-after-wsj-report-of-buyout-talks-with-salesforce-2020-11-25""&gt;https://www.marketwatch.com/story/slacks-stock-spikes-up-after-wsj-report-of-buyout-talks-with-salesforce-2020-11-25&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;WORK spiked up and was temporarily halted on the news that came from The Wall Street Journal. They have been in a very competitive field this year and Salesforce seems to have plans for them.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 150, 'id': 'award_f44611f1-b89e-46dc-97fe-892280b13b82', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Thank you stranger. Shows the award.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Helpful', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0vy12,True,,Kevenam,,138,False,all_ads,False,[],False,,/r/investing/comments/k0vy12/slack_technologies_work_reportedly_has_been_in/,all_ads,False,https://www.reddit.com/r/investing/comments/k0vy12/slack_technologies_work_reportedly_has_been_in/,1209704,1606323678.0,0,,False
+,investing,"DD from u/ComputerTE1996
+
+“So what is Microvast?
+
+TLDR: EV Battery Maker based in Texas, business focuses in Asia (China market is $$). One of the best EV battery techs right now. Already has 100M revenue this year.
+
+It makes EV batteries based on Lithium Titanium Oxide (LTO) chemistry. Microvast's batteries have longer life, shorter charging times, and offer substantial lower cost of ownership by eliminating swapping station infrastructures required by buses running on LFP batteries.
+
+Their batteries powered the electric buses used in the 2018 Winter Olympic Games, it expects to generate more than $100 million in revenue this financial year. Most other EV companies don't even have revenue yet.
+
+If you missed out on CIIC train, this will be the next hype play. I don't expect it to have big jumps in the next few days, but the merger agreement with Microvast should come out within the next 2 weeks. Get in early before it comes out and jumps up 50%. Shares and warrants are both cheap right now. Once merger is announced, THCB will easily go to ~$20 range.
+
+Reminder: Gonna take a couple weeks before it moons (from merger agreement confirmation), BE PATIENT”
+
+Since this is a SPAC, the price floor is $10.22 if the merger doesn’t go through. This means your downside is limited.
+
+I personally moved my entire account into 3050 shares at $10.60. Proof: https://ibb.co/5WH1yMk",t2_8m7y123g,False,,0,False,"I just went all in on THCB, and you should too",[],r/investing,False,6,,0,,False,t3_k1ar59,False,dark,0.77,,public,16,0,{},,False,[],,False,False,,{},,False,16,,False,,False,,[],{},,True,,1606404250.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;DD from &lt;a href=""/u/ComputerTE1996""&gt;u/ComputerTE1996&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“So what is Microvast?&lt;/p&gt;
+
+&lt;p&gt;TLDR: EV Battery Maker based in Texas, business focuses in Asia (China market is $$). One of the best EV battery techs right now. Already has 100M revenue this year.&lt;/p&gt;
+
+&lt;p&gt;It makes EV batteries based on Lithium Titanium Oxide (LTO) chemistry. Microvast&amp;#39;s batteries have longer life, shorter charging times, and offer substantial lower cost of ownership by eliminating swapping station infrastructures required by buses running on LFP batteries.&lt;/p&gt;
+
+&lt;p&gt;Their batteries powered the electric buses used in the 2018 Winter Olympic Games, it expects to generate more than $100 million in revenue this financial year. Most other EV companies don&amp;#39;t even have revenue yet.&lt;/p&gt;
+
+&lt;p&gt;If you missed out on CIIC train, this will be the next hype play. I don&amp;#39;t expect it to have big jumps in the next few days, but the merger agreement with Microvast should come out within the next 2 weeks. Get in early before it comes out and jumps up 50%. Shares and warrants are both cheap right now. Once merger is announced, THCB will easily go to ~$20 range.&lt;/p&gt;
+
+&lt;p&gt;Reminder: Gonna take a couple weeks before it moons (from merger agreement confirmation), BE PATIENT”&lt;/p&gt;
+
+&lt;p&gt;Since this is a SPAC, the price floor is $10.22 if the merger doesn’t go through. This means your downside is limited.&lt;/p&gt;
+
+&lt;p&gt;I personally moved my entire account into 3050 shares at $10.60. Proof: &lt;a href=""https://ibb.co/5WH1yMk""&gt;https://ibb.co/5WH1yMk&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1ar59,True,,BuyNioNow,,7,True,all_ads,False,[],False,,/r/investing/comments/k1ar59/i_just_went_all_in_on_thcb_and_you_should_too/,all_ads,False,https://www.reddit.com/r/investing/comments/k1ar59/i_just_went_all_in_on_thcb_and_you_should_too/,1209704,1606375450.0,0,,False
+,investing,"Hey Investors, I hope you're having a great week and are going to have a wonderful Thanksgiving. I just needed a place to vent ... I finally after months have locked into a nice groove with investing (taking so much of the advice of the ""greats,"" collecting companies, letting go, not checking, etc. etc. etc.) ... this was going well then I slipped up today and started watching PLTR, NIO, TSLA and other stocks I held when I was trading (""gambling"") ... since I held them all a while ago and have seen their meteoric rise ... I just got in a negative funk.
+
+But, WTF am I doing? I finally broke through to the other side of this and have a steadfast plan that is going well ... I just felt so much FOMO today and considered blowing up my positions to move around things ... getting into that trading/gambling mentality instead of investing.
+
+Just wanted to put this out there for anyone who needed to hear it. It is really difficult to see people posting their $1K, $10K, $20K gains in a day and think about how I could pay off my loans, not worry about my wife looking for a job so much, etc. etc. etc. It's all just noise. Must stick to the plan and get tf off Reddit! Peace out.
+
+EDIT: I wasn't trying to shit on PLTR, NIO, TSLA ... I'm salty I sold prior to gains and don't have the stomach to buy in now they're so ""high..."" anyway, I'm just tossing out what works for me/my mood ... I'm jealous of steel stomachs that can take the headwinds and make crazy gains.",t2_69s9jv22,False,,0,False,Encouragement to Stay the Course: Just For Anyone Who Needs It,[],r/investing,False,6,,0,,False,t3_k128zt,False,dark,0.83,,public,73,1,{},,False,[],,False,False,,{},,False,73,,False,,1606353136.0,,[],{'gid_1': 1},,True,,1606371336.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hey Investors, I hope you&amp;#39;re having a great week and are going to have a wonderful Thanksgiving. I just needed a place to vent ... I finally after months have locked into a nice groove with investing (taking so much of the advice of the &amp;quot;greats,&amp;quot; collecting companies, letting go, not checking, etc. etc. etc.) ... this was going well then I slipped up today and started watching PLTR, NIO, TSLA and other stocks I held when I was trading (&amp;quot;gambling&amp;quot;) ... since I held them all a while ago and have seen their meteoric rise ... I just got in a negative funk.&lt;/p&gt;
+
+&lt;p&gt;But, WTF am I doing? I finally broke through to the other side of this and have a steadfast plan that is going well ... I just felt so much FOMO today and considered blowing up my positions to move around things ... getting into that trading/gambling mentality instead of investing.&lt;/p&gt;
+
+&lt;p&gt;Just wanted to put this out there for anyone who needed to hear it. It is really difficult to see people posting their $1K, $10K, $20K gains in a day and think about how I could pay off my loans, not worry about my wife looking for a job so much, etc. etc. etc. It&amp;#39;s all just noise. Must stick to the plan and get tf off Reddit! Peace out.&lt;/p&gt;
+
+&lt;p&gt;EDIT: I wasn&amp;#39;t trying to shit on PLTR, NIO, TSLA ... I&amp;#39;m salty I sold prior to gains and don&amp;#39;t have the stomach to buy in now they&amp;#39;re so &amp;quot;high...&amp;quot; anyway, I&amp;#39;m just tossing out what works for me/my mood ... I&amp;#39;m jealous of steel stomachs that can take the headwinds and make crazy gains.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 100, 'id': 'gid_1', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_width': 512, 'static_icon_width': 512, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': ""Shows the Silver Award... and that's it."", 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 512, 'name': 'Silver', 'resized_static_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 512, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k128zt,True,,folkwoodswest,,69,True,all_ads,False,[],False,,/r/investing/comments/k128zt/encouragement_to_stay_the_course_just_for_anyone/,all_ads,False,https://www.reddit.com/r/investing/comments/k128zt/encouragement_to_stay_the_course_just_for_anyone/,1209704,1606342536.0,0,,False
+,investing,"The question isn't \*when\* you should get out, its **why** you should get out.
+
+Remember, the goal isn't 1 10x gain (though that's pretty amazing, right?!). The number of companies that see a 10x gain are &lt; 1%. However, if you get out at say a 80% gain, you're looking at a significantly larger chance of that happening. If you're looking at a 20% gain then, many companies can give you that return.
+
+**Understand what your end goal is and break it down on how you can get there. Run toward that dream instead of running away from whatever it is that you think money will help you escape from.**
+
+So what's all this mean? Figure out where you're trying to get to. Want to turn 10,000 into 1,000,000?
+
+You could hope for 1 stock that you're fully invested in generating a 100x (1000% return). Chances of that happening... minimal. Chances of that 10,000 turning into 15,000 (50%) return much better. Look, making 1,000,000 out of 10,000 is NOT easy. It's luck, timing, and to an extent skill and discipline.
+
+If you want to make a million bucks out of a single win on a 10,000 investment, you need to find something that's going to generate a 10,000% return. Good freaking luck. But... do you think you could find opportunities that can generate a 20% return? Probably so. Yes, you'll need to do this 500 times, but if you don't think you have the time and discipline to to find 500 opportunities in 700 days (2 trading years)... I mean... take a step back and breathe... Of course 10,000% is possible - you'll see that in WSB all the time. But what you won't see are the other two types of people:
+
+1. People who made that 10,000% return over several years. Guarantee you this group is larger than that # of people who generated a single 10,000% return on 1 investment.
+2. People who lost it all chasing that 10,000% return who have no interest in sharing their pain for BS karma points.  Guarantee you that this group is significantly larger than group 1.
+
+&amp;#x200B;
+
+**To put this all in perspective: Do you think you'd have an easier time of generating:**
+
+\- 1 10,000% return or
+
+\- 500 20% returns.
+
+Put another way, do you think you could generate 1 20% return each day for the next couple years? It's not easy at all. But then again, if that's not very easy, then exactly how easy is generating 1, 10,000% return. And what happens if you lose your 10,000 on 1 investment that went south (cough...SPX weekly puts / calls)
+
+**BEGINNING INVESTMENT:** $10,000
+
+**EXPECTED OUTCOME:** $1,000,000
+
+|\# of positive investment outcomes|% return required|Chances of this happening|
+|:-|:-|:-|
+|1|10,000%|Really freaking low|
+|10|1,000%|Really, really low|
+|20|500%|still really low|
+|50|200%|you've had a few of these I bet|
+|100|100%|MSFT hands these out in the long run|
+|200|50%|doable|
+|500|20%|Really, really doable|
+
+&amp;#x200B;",t2_pmw6,False,,0,False,WHY to exit a position vs. WHEN to exit a position.,[],r/investing,False,6,,0,,False,t3_k19efy,False,dark,0.77,,public,16,0,{},,False,[],,False,False,,{},,False,16,,False,,False,,[],{},,True,,1606398154.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;The question isn&amp;#39;t *when* you should get out, its &lt;strong&gt;why&lt;/strong&gt; you should get out.&lt;/p&gt;
+
+&lt;p&gt;Remember, the goal isn&amp;#39;t 1 10x gain (though that&amp;#39;s pretty amazing, right?!). The number of companies that see a 10x gain are &amp;lt; 1%. However, if you get out at say a 80% gain, you&amp;#39;re looking at a significantly larger chance of that happening. If you&amp;#39;re looking at a 20% gain then, many companies can give you that return.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Understand what your end goal is and break it down on how you can get there. Run toward that dream instead of running away from whatever it is that you think money will help you escape from.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So what&amp;#39;s all this mean? Figure out where you&amp;#39;re trying to get to. Want to turn 10,000 into 1,000,000?&lt;/p&gt;
+
+&lt;p&gt;You could hope for 1 stock that you&amp;#39;re fully invested in generating a 100x (1000% return). Chances of that happening... minimal. Chances of that 10,000 turning into 15,000 (50%) return much better. Look, making 1,000,000 out of 10,000 is NOT easy. It&amp;#39;s luck, timing, and to an extent skill and discipline.&lt;/p&gt;
+
+&lt;p&gt;If you want to make a million bucks out of a single win on a 10,000 investment, you need to find something that&amp;#39;s going to generate a 10,000% return. Good freaking luck. But... do you think you could find opportunities that can generate a 20% return? Probably so. Yes, you&amp;#39;ll need to do this 500 times, but if you don&amp;#39;t think you have the time and discipline to to find 500 opportunities in 700 days (2 trading years)... I mean... take a step back and breathe... Of course 10,000% is possible - you&amp;#39;ll see that in WSB all the time. But what you won&amp;#39;t see are the other two types of people:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;People who made that 10,000% return over several years. Guarantee you this group is larger than that # of people who generated a single 10,000% return on 1 investment.&lt;/li&gt;
+&lt;li&gt;People who lost it all chasing that 10,000% return who have no interest in sharing their pain for BS karma points.  Guarantee you that this group is significantly larger than group 1.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To put this all in perspective: Do you think you&amp;#39;d have an easier time of generating:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;- 1 10,000% return or&lt;/p&gt;
+
+&lt;p&gt;- 500 20% returns.&lt;/p&gt;
+
+&lt;p&gt;Put another way, do you think you could generate 1 20% return each day for the next couple years? It&amp;#39;s not easy at all. But then again, if that&amp;#39;s not very easy, then exactly how easy is generating 1, 10,000% return. And what happens if you lose your 10,000 on 1 investment that went south (cough...SPX weekly puts / calls)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEGINNING INVESTMENT:&lt;/strong&gt; $10,000&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EXPECTED OUTCOME:&lt;/strong&gt; $1,000,000&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=""left""&gt;# of positive investment outcomes&lt;/th&gt;
+&lt;th align=""left""&gt;% return required&lt;/th&gt;
+&lt;th align=""left""&gt;Chances of this happening&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;1&lt;/td&gt;
+&lt;td align=""left""&gt;10,000%&lt;/td&gt;
+&lt;td align=""left""&gt;Really freaking low&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;10&lt;/td&gt;
+&lt;td align=""left""&gt;1,000%&lt;/td&gt;
+&lt;td align=""left""&gt;Really, really low&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;20&lt;/td&gt;
+&lt;td align=""left""&gt;500%&lt;/td&gt;
+&lt;td align=""left""&gt;still really low&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;50&lt;/td&gt;
+&lt;td align=""left""&gt;200%&lt;/td&gt;
+&lt;td align=""left""&gt;you&amp;#39;ve had a few of these I bet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;100&lt;/td&gt;
+&lt;td align=""left""&gt;100%&lt;/td&gt;
+&lt;td align=""left""&gt;MSFT hands these out in the long run&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;200&lt;/td&gt;
+&lt;td align=""left""&gt;50%&lt;/td&gt;
+&lt;td align=""left""&gt;doable&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;500&lt;/td&gt;
+&lt;td align=""left""&gt;20%&lt;/td&gt;
+&lt;td align=""left""&gt;Really, really doable&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k19efy,True,,daftstar,,8,True,all_ads,False,[],False,,/r/investing/comments/k19efy/why_to_exit_a_position_vs_when_to_exit_a_position/,all_ads,False,https://www.reddit.com/r/investing/comments/k19efy/why_to_exit_a_position_vs_when_to_exit_a_position/,1209704,1606369354.0,0,,False
+,investing,"[Source](https://squareup.com/us/en/press/credit-karma-tax)
+
+&gt; Square, Inc. (NYSE: SQ) has entered into a definitive agreement with Credit Karma to acquire its tax business, Credit Karma Tax, on behalf of Cash App, the financial services app that allows individuals to spend, send, store and invest money. Square will pay $50 million in cash for Credit Karma Tax, which provides a free, do-it-yourself tax filing service for consumers.",t2_6iio9ssq,False,,0,False,Cash App Announces Definitive Agreement to Acquire Credit Karma Tax,[],r/investing,False,6,,0,,False,t3_k0wwkc,False,dark,0.96,,public,132,0,{},,False,[],,False,False,,{},,False,132,,False,,False,,[],{},,True,,1606355258.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://squareup.com/us/en/press/credit-karma-tax""&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Square, Inc. (NYSE: SQ) has entered into a definitive agreement with Credit Karma to acquire its tax business, Credit Karma Tax, on behalf of Cash App, the financial services app that allows individuals to spend, send, store and invest money. Square will pay $50 million in cash for Credit Karma Tax, which provides a free, do-it-yourself tax filing service for consumers.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0wwkc,True,,ReadTheStatement,,14,True,all_ads,False,[],False,,/r/investing/comments/k0wwkc/cash_app_announces_definitive_agreement_to/,all_ads,False,https://www.reddit.com/r/investing/comments/k0wwkc/cash_app_announces_definitive_agreement_to/,1209704,1606326458.0,0,,False
+,investing,"Hi, 
+
+  
+I'm a PhD  student currently working in the UK (Scotland) and I was wondering how does tax work if you start making money using a platform like Trading212 ? Will it affect my stipend ? Will I need to register myself with the HMRC ? Does anyone have experience in this area ? Or a source to help me out.
+
+  
+Thank you !",t2_1zqc9sup,False,,0,False,How does UK Tax on investments work ?,[],r/investing,False,6,,0,,True,t3_k1ds8l,False,dark,1.0,,public,4,0,{},,False,[],,False,False,,{},,False,4,,False,,False,,[],{},,True,,1606419483.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi, &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m a PhD  student currently working in the UK (Scotland) and I was wondering how does tax work if you start making money using a platform like Trading212 ? Will it affect my stipend ? Will I need to register myself with the HMRC ? Does anyone have experience in this area ? Or a source to help me out.&lt;/p&gt;
+
+&lt;p&gt;Thank you !&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1ds8l,True,,HugeBlueberry,,1,True,all_ads,False,[],False,,/r/investing/comments/k1ds8l/how_does_uk_tax_on_investments_work/,all_ads,False,https://www.reddit.com/r/investing/comments/k1ds8l/how_does_uk_tax_on_investments_work/,1209704,1606390683.0,0,,False
+,investing,"M(31) so after finally hitting a £100k milestone investing in mainly index funds I’ve decided to branch out and kind of take on a little bit more risk in hope for a little more reward by having a dabble with individual stocks. 
+So far I have about 5% of my total investments in individual stocks stocks that are up in the regions of 18-50% in the present moment. Which is much more than my index funds. 
+
+I’m just wondering how much you all put aside for individual stocks? And how much you would put into each individual stock? I understand everyone will have different opinions on this and I’m interested to hear! 
+
+I kind of view these individual stocks as a gamble and am willing to accept the loss/gain. I am still continuing to add to my index positions for long term growth. 
+Thanks",t2_xzce3,False,,0,False,What % of your portfolio do you invest in single stocks?,[],r/investing,False,6,,0,,False,t3_k1bpvp,False,dark,0.84,,public,4,0,{},,False,[],,False,False,,{},,False,4,,False,,False,,[],{},,True,,1606409051.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;M(31) so after finally hitting a £100k milestone investing in mainly index funds I’ve decided to branch out and kind of take on a little bit more risk in hope for a little more reward by having a dabble with individual stocks. 
+So far I have about 5% of my total investments in individual stocks stocks that are up in the regions of 18-50% in the present moment. Which is much more than my index funds. &lt;/p&gt;
+
+&lt;p&gt;I’m just wondering how much you all put aside for individual stocks? And how much you would put into each individual stock? I understand everyone will have different opinions on this and I’m interested to hear! &lt;/p&gt;
+
+&lt;p&gt;I kind of view these individual stocks as a gamble and am willing to accept the loss/gain. I am still continuing to add to my index positions for long term growth. 
+Thanks&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1bpvp,True,,simon1lee2002,,33,True,all_ads,False,[],False,,/r/investing/comments/k1bpvp/what_of_your_portfolio_do_you_invest_in_single/,all_ads,False,https://www.reddit.com/r/investing/comments/k1bpvp/what_of_your_portfolio_do_you_invest_in_single/,1209704,1606380251.0,0,,False
+,investing, In the beginning stages of expanding my portfolio and researching Copper right now. It seems to be a good investment (right now I am looking at Southern Copper (SCCO). Have any of you had good returns in the long run from this or any Copper stock?  I have read that it (copper) is always in general demand and YoY it does hover on the upside of margins.,t2_5xwav482,False,,0,False,Investing In Copper?,[],r/investing,False,6,,0,,False,t3_k1cj07,False,dark,0.72,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1606413201.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;In the beginning stages of expanding my portfolio and researching Copper right now. It seems to be a good investment (right now I am looking at Southern Copper (SCCO). Have any of you had good returns in the long run from this or any Copper stock?  I have read that it (copper) is always in general demand and YoY it does hover on the upside of margins.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1cj07,True,,TheOrigin1980,,3,True,all_ads,False,[],False,,/r/investing/comments/k1cj07/investing_in_copper/,all_ads,False,https://www.reddit.com/r/investing/comments/k1cj07/investing_in_copper/,1209704,1606384401.0,0,,False
+,investing,"[The article I am talking of.](https://archive.is/Ywf6y) which is based on this [paper.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3725454)
+
+Their research suggests that the recent volatility in the market is being driven by a boom in derivatives market and market makers performing gamma hedging.
+
+The paper talks about the events that unfolded in September and in some other times.
+
+Goldman Sachs has already put out information regarding that trading volume of single stock options  exceeded that of regular shares.
+
+As a result, some are suggesting that the derivatives market is driving the underlying shares, not the other way around.
+
+This mean there is likely to be more flash crashes with larger magnitudes and elevated stock runups.
+
+The more mainstream members of the finance community are now playing catch-up.
+
+If this elevated levels of options activity continues, the fundamental characteristics of the market could remain this way.",t2_oco7h7q,False,,0,False,Wall Street Dealers in Hedging Frenzy Get Blamed for Volatility,[],r/investing,False,6,,0,,True,t3_k1ecma,False,dark,1.0,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1606422182.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://archive.is/Ywf6y""&gt;The article I am talking of.&lt;/a&gt; which is based on this &lt;a href=""https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3725454""&gt;paper.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Their research suggests that the recent volatility in the market is being driven by a boom in derivatives market and market makers performing gamma hedging.&lt;/p&gt;
+
+&lt;p&gt;The paper talks about the events that unfolded in September and in some other times.&lt;/p&gt;
+
+&lt;p&gt;Goldman Sachs has already put out information regarding that trading volume of single stock options  exceeded that of regular shares.&lt;/p&gt;
+
+&lt;p&gt;As a result, some are suggesting that the derivatives market is driving the underlying shares, not the other way around.&lt;/p&gt;
+
+&lt;p&gt;This mean there is likely to be more flash crashes with larger magnitudes and elevated stock runups.&lt;/p&gt;
+
+&lt;p&gt;The more mainstream members of the finance community are now playing catch-up.&lt;/p&gt;
+
+&lt;p&gt;If this elevated levels of options activity continues, the fundamental characteristics of the market could remain this way.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1ecma,True,,nafizzaki,,1,True,all_ads,False,[],False,,/r/investing/comments/k1ecma/wall_street_dealers_in_hedging_frenzy_get_blamed/,all_ads,False,https://www.reddit.com/r/investing/comments/k1ecma/wall_street_dealers_in_hedging_frenzy_get_blamed/,1209704,1606393382.0,0,,False
+,investing,"APXT has reached a deal to merge with AvePoint, the largest Microsoft 365 Data Management Solutions Provider. The company is being valued at $2 billion and will trade under AVPT.
+
+APXT has a huge client base already, at an estimated 7 million members. 25% of the Fortune 500 uses Avepoint.
+
+'AvePoint’s 7 million customers represent a 3% share of Microsoft’s 250 million 365 users. AvePoint believes it can get to 10% share and Microsoft will hit 500 million users in the future, good for 50 million AvePoint future customers.'
+
+Addressable market: $33 billion by 2022. 
+
+The company ALREADY HAS REVENUE (unlike other SPACs), which is expected to total $148 million by the end of this year. A large % of this is recurring revenue as well, with 78% of revenues in 2020 estimated to be recurring. Expected revenue CAGR of 30% to 2022. 
+
+**5-time winner of Microsoft Partner of the Year award.**
+
+Management: 'Apex is led by former Oracle CFO Jeff Epstein and former Goldman Sachs Head of Technology Investment Banking Brad Koenig'. These are huge, knowledgeable players. They can turn this company into a goliath, especially with the extra capital from a SPAC. 
+
+Big name backers: Sixth Street Partners, Goldman Sachs, 
+
+Big advisors on the deal, including Goldman Sachs, Evercore and Citigroup.
+
+This seems similar to the other data related plays we've had this year \*cough\* PLTR \*cough\*. Not the same type, but definitely in a growth market with strong margins. Also allows you to diversify away from EVs a bit.
+
+The SPAC hasn't run yet, currently trading at $10.75 per share, so this has a lot of room to run. Very little downside, but huge potential upside. 
+
+Sources:
+
+[https://www.businesswire.com/news/home/20201123005590/en/AvePoint-the-Largest-Microsoft-365-Data-Management-Solutions-Provider-Announces-2bn-Merger](https://www.businesswire.com/news/home/20201123005590/en/AvePoint-the-Largest-Microsoft-365-Data-Management-Solutions-Provider-Announces-2bn-Merger)
+
+[https://www.avepoint.com/](https://www.avepoint.com/)
+
+[https://www.marketwatch.com/story/microsoft-cloud-partner-avepoint-going-public-via-merger-with-blank-check-company-apex-technology-2020-11-23](https://www.marketwatch.com/story/microsoft-cloud-partner-avepoint-going-public-via-merger-with-blank-check-company-apex-technology-2020-11-23)
+
+[https://uk.finance.yahoo.com/news/avepoint-public-via-spac-valued-160729256.html](https://uk.finance.yahoo.com/news/avepoint-public-via-spac-valued-160729256.html)
+
+[https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac](https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac)
+
+Disclaimer: I have APXT shares and this does not constitute financial advice.",t2_z04ct,False,,0,False,APXT: Merging with AvePoint,[],r/investing,False,6,,0,,False,t3_k0wett,False,dark,0.89,,public,53,0,{},,False,[],,False,False,,{},,False,53,,True,,False,,[],{},,True,,1606353854.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;APXT has reached a deal to merge with AvePoint, the largest Microsoft 365 Data Management Solutions Provider. The company is being valued at $2 billion and will trade under AVPT.&lt;/p&gt;
+
+&lt;p&gt;APXT has a huge client base already, at an estimated 7 million members. 25% of the Fortune 500 uses Avepoint.&lt;/p&gt;
+
+&lt;p&gt;&amp;#39;AvePoint’s 7 million customers represent a 3% share of Microsoft’s 250 million 365 users. AvePoint believes it can get to 10% share and Microsoft will hit 500 million users in the future, good for 50 million AvePoint future customers.&amp;#39;&lt;/p&gt;
+
+&lt;p&gt;Addressable market: $33 billion by 2022. &lt;/p&gt;
+
+&lt;p&gt;The company ALREADY HAS REVENUE (unlike other SPACs), which is expected to total $148 million by the end of this year. A large % of this is recurring revenue as well, with 78% of revenues in 2020 estimated to be recurring. Expected revenue CAGR of 30% to 2022. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5-time winner of Microsoft Partner of the Year award.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Management: &amp;#39;Apex is led by former Oracle CFO Jeff Epstein and former Goldman Sachs Head of Technology Investment Banking Brad Koenig&amp;#39;. These are huge, knowledgeable players. They can turn this company into a goliath, especially with the extra capital from a SPAC. &lt;/p&gt;
+
+&lt;p&gt;Big name backers: Sixth Street Partners, Goldman Sachs, &lt;/p&gt;
+
+&lt;p&gt;Big advisors on the deal, including Goldman Sachs, Evercore and Citigroup.&lt;/p&gt;
+
+&lt;p&gt;This seems similar to the other data related plays we&amp;#39;ve had this year *cough* PLTR *cough*. Not the same type, but definitely in a growth market with strong margins. Also allows you to diversify away from EVs a bit.&lt;/p&gt;
+
+&lt;p&gt;The SPAC hasn&amp;#39;t run yet, currently trading at $10.75 per share, so this has a lot of room to run. Very little downside, but huge potential upside. &lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.businesswire.com/news/home/20201123005590/en/AvePoint-the-Largest-Microsoft-365-Data-Management-Solutions-Provider-Announces-2bn-Merger""&gt;https://www.businesswire.com/news/home/20201123005590/en/AvePoint-the-Largest-Microsoft-365-Data-Management-Solutions-Provider-Announces-2bn-Merger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.avepoint.com/""&gt;https://www.avepoint.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.marketwatch.com/story/microsoft-cloud-partner-avepoint-going-public-via-merger-with-blank-check-company-apex-technology-2020-11-23""&gt;https://www.marketwatch.com/story/microsoft-cloud-partner-avepoint-going-public-via-merger-with-blank-check-company-apex-technology-2020-11-23&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://uk.finance.yahoo.com/news/avepoint-public-via-spac-valued-160729256.html""&gt;https://uk.finance.yahoo.com/news/avepoint-public-via-spac-valued-160729256.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac""&gt;https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Disclaimer: I have APXT shares and this does not constitute financial advice.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0wett,True,,Laughingboy14,,24,True,all_ads,False,[],False,,/r/investing/comments/k0wett/apxt_merging_with_avepoint/,all_ads,False,https://www.reddit.com/r/investing/comments/k0wett/apxt_merging_with_avepoint/,1209704,1606325054.0,0,,False
+,investing,"&amp;#x200B;
+
+I got in at 10 and 15. Way before the hype started and just after Cathie Wood. I really believe this is a great company with a solid product. However as a developer myself there is things I do see as a problem.
+
+Palantir is an analytic infrastructure to companies, they are invaluable to companies that hold a big amount of data but has no plan or way to actually structure that data. I believe once you start using Palantirs products it's very hard to quit. 
+
+&amp;#x200B;
+
+**The product**
+
+In order for Palantir to sell their product they literally have to get their FDE ([https://www.palantir.com/careers/teams/forward-deployed-software-engineers](https://www.palantir.com/careers/teams/forward-deployed-software-engineers)) onsight. 
+
+A lot of people have no idea what the hell Palantir does. They don't have a massive database where you just can pick out data from and spy on people. What they do is extract the companies data from different sources, structured and unstructured. Clean it and run it through various ML models in order to make sense of it. What they are actually are doing is building these huge interconnected pipelines between all the datapoints, things that had no connection before suddenly do. This is MASSIVE for companies, they can ask the right questions now. The have the answers infront of them, they just have to ask for it.
+
+**The issue**
+
+My whole problem with Palantir is that they are heavily dependent on this process, they can't just sell a product and one the same day have it working. They actually have to process the data for a few weeks before they have a working product, this is basically consulting. It's not scalable, it's customizable. They need units on the ground all the time for new contracts. 
+
+&amp;#x200B;
+
+Now from my understanding it's actually improving, they are quicker and quicker with integrating new customers but I just can't see how they will scale as fast as people think they will. I don't think they can grow at an amazing pace.
+
+&amp;#x200B;
+
+**TL;DR** 
+
+Amazing analytics software that makes the companies see connections between data that not been possible before, however issues with how many new customers they actually can earn going forward.",t2_8m6kj2f3,False,,0,False,Does Palantir have a scaling issue going forward?,[],r/investing,False,6,,0,,False,t3_k0sqty,False,dark,0.82,,public,79,0,{},,False,[],,False,False,,{},,False,79,,False,,False,,[],{},,True,,1606341924.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;I got in at 10 and 15. Way before the hype started and just after Cathie Wood. I really believe this is a great company with a solid product. However as a developer myself there is things I do see as a problem.&lt;/p&gt;
+
+&lt;p&gt;Palantir is an analytic infrastructure to companies, they are invaluable to companies that hold a big amount of data but has no plan or way to actually structure that data. I believe once you start using Palantirs products it&amp;#39;s very hard to quit. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The product&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In order for Palantir to sell their product they literally have to get their FDE (&lt;a href=""https://www.palantir.com/careers/teams/forward-deployed-software-engineers""&gt;https://www.palantir.com/careers/teams/forward-deployed-software-engineers&lt;/a&gt;) onsight. &lt;/p&gt;
+
+&lt;p&gt;A lot of people have no idea what the hell Palantir does. They don&amp;#39;t have a massive database where you just can pick out data from and spy on people. What they do is extract the companies data from different sources, structured and unstructured. Clean it and run it through various ML models in order to make sense of it. What they are actually are doing is building these huge interconnected pipelines between all the datapoints, things that had no connection before suddenly do. This is MASSIVE for companies, they can ask the right questions now. The have the answers infront of them, they just have to ask for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The issue&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My whole problem with Palantir is that they are heavily dependent on this process, they can&amp;#39;t just sell a product and one the same day have it working. They actually have to process the data for a few weeks before they have a working product, this is basically consulting. It&amp;#39;s not scalable, it&amp;#39;s customizable. They need units on the ground all the time for new contracts. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Now from my understanding it&amp;#39;s actually improving, they are quicker and quicker with integrating new customers but I just can&amp;#39;t see how they will scale as fast as people think they will. I don&amp;#39;t think they can grow at an amazing pace.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Amazing analytics software that makes the companies see connections between data that not been possible before, however issues with how many new customers they actually can earn going forward.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0sqty,True,,similiarintrests,,87,True,all_ads,False,[],False,,/r/investing/comments/k0sqty/does_palantir_have_a_scaling_issue_going_forward/,all_ads,False,https://www.reddit.com/r/investing/comments/k0sqty/does_palantir_have_a_scaling_issue_going_forward/,1209704,1606313124.0,0,,False
+,investing,"Looking at Metlife, as of today it has an earnings per share of $6.12 and a price of $47.76, so a P/E of about 8.
+
+Compared to the maybe outdated Ben Graham rule of price/earnings over 15 being expensive, a P/E of 8 seems like a bargain, unless I'm missing something important about the company or global insurance markets. 
+
+To my understanding, Metlife got out of retail life insurance awhile ago to focus on corporate products, and they have an established global brand.  
+
+So what's the downside keeping the price so low?
+
+The earnings return over time would be 6.12/47.76 = 13%, assuming they can just maintain their past performance, which to me doesn't seem unlikely. 
+
+And there's also a 3.78% dividend, at a pretty sustainable payout ratio of 29.41%.
+
+So what's the catch?  
+
+Is there something wrong with Metlife in particular or are people concerned about the life and health insurance business in particular, or both?",t2_laj5m,False,,0,False,What am I missing here with MET?,[],r/investing,False,6,,0,,False,t3_k17zoo,False,dark,0.88,,public,6,0,{},,False,[],,False,False,,{},,False,6,,False,,False,,[],{},,True,,1606392336.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Looking at Metlife, as of today it has an earnings per share of $6.12 and a price of $47.76, so a P/E of about 8.&lt;/p&gt;
+
+&lt;p&gt;Compared to the maybe outdated Ben Graham rule of price/earnings over 15 being expensive, a P/E of 8 seems like a bargain, unless I&amp;#39;m missing something important about the company or global insurance markets. &lt;/p&gt;
+
+&lt;p&gt;To my understanding, Metlife got out of retail life insurance awhile ago to focus on corporate products, and they have an established global brand.  &lt;/p&gt;
+
+&lt;p&gt;So what&amp;#39;s the downside keeping the price so low?&lt;/p&gt;
+
+&lt;p&gt;The earnings return over time would be 6.12/47.76 = 13%, assuming they can just maintain their past performance, which to me doesn&amp;#39;t seem unlikely. &lt;/p&gt;
+
+&lt;p&gt;And there&amp;#39;s also a 3.78% dividend, at a pretty sustainable payout ratio of 29.41%.&lt;/p&gt;
+
+&lt;p&gt;So what&amp;#39;s the catch?  &lt;/p&gt;
+
+&lt;p&gt;Is there something wrong with Metlife in particular or are people concerned about the life and health insurance business in particular, or both?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k17zoo,True,,xena_lawless,,3,True,all_ads,False,[],False,,/r/investing/comments/k17zoo/what_am_i_missing_here_with_met/,all_ads,False,https://www.reddit.com/r/investing/comments/k17zoo/what_am_i_missing_here_with_met/,1209704,1606363536.0,0,,False
+,investing,"Slack acquisition prices will be decided before Dec 1st $CRM earnings. With $AMZN $SNOW &amp; others using Slack for external communication &amp; relying more on Slack connect over emails gives slack edge over teams. Moreover Ark invest/Cathie did not to sell a single stock from their 8th largest portfolio.
+
+IMO this is just the beginning &amp; salesforce approached $WORK. Possible there can be more than one bidder: $ZM $APPN $GOOG $AMZN
+
+Anything less than $27 to 30B is not worth slacks time after pulling off slack Connect. When Microsoft think tank believes Teams is worth 49B, Slack's collaboration has bigger potential to $crm $appn $goog $amzn $zm
+
+Microsoft Teams !&gt; SLACK
+
+Tldr: **More importantly buy salesforce, if the deal is confirmed &amp; long calls.**",t2_64hauk6z,False,,0,False,Slack acquisition by Salesforce,[],r/investing,False,6,,0,,False,t3_k178ml,False,dark,0.81,,public,6,0,{},,False,[],,False,False,,{},,False,6,,False,,1606362736.0,,[],{},,True,,1606389272.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Slack acquisition prices will be decided before Dec 1st $CRM earnings. With $AMZN $SNOW &amp;amp; others using Slack for external communication &amp;amp; relying more on Slack connect over emails gives slack edge over teams. Moreover Ark invest/Cathie did not to sell a single stock from their 8th largest portfolio.&lt;/p&gt;
+
+&lt;p&gt;IMO this is just the beginning &amp;amp; salesforce approached $WORK. Possible there can be more than one bidder: $ZM $APPN $GOOG $AMZN&lt;/p&gt;
+
+&lt;p&gt;Anything less than $27 to 30B is not worth slacks time after pulling off slack Connect. When Microsoft think tank believes Teams is worth 49B, Slack&amp;#39;s collaboration has bigger potential to $crm $appn $goog $amzn $zm&lt;/p&gt;
+
+&lt;p&gt;Microsoft Teams !&amp;gt; SLACK&lt;/p&gt;
+
+&lt;p&gt;Tldr: &lt;strong&gt;More importantly buy salesforce, if the deal is confirmed &amp;amp; long calls.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k178ml,True,,WsbShade,,5,True,all_ads,False,[],False,,/r/investing/comments/k178ml/slack_acquisition_by_salesforce/,all_ads,False,https://www.reddit.com/r/investing/comments/k178ml/slack_acquisition_by_salesforce/,1209704,1606360472.0,0,,False
+,investing,"Found this article on the web that was posted today (11/25) -- [https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries](https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries)  
+
+
+I've been a proponent of GM vehicles since 2013. Really liking the path that GM is taking with their EV vehicles. Their new battery tech seems promising and their valuations are low compared to other pure EV makers. My concern is can GM catch up to Tesla in the EV market? I'm really hoping GM lays out some real cool new modern designs for their cars to cater to the younger market. Their current lineup looks so bland...",t2_1uuh7sz,False,,0,False,Can this new battery tech propel GM to be an EV leader in the near future?,[],r/investing,False,6,,0,,False,t3_k19ej6,False,dark,0.7,,public,4,0,{},,False,[],,False,False,,{},,False,4,,False,,False,,[],{},,True,,1606398166.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Found this article on the web that was posted today (11/25) -- &lt;a href=""https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries""&gt;https://spectrum.ieee.org/transportation/advanced-cars/gm-opens-up-a-new-front-in-its-battle-with-tesla-batteries&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve been a proponent of GM vehicles since 2013. Really liking the path that GM is taking with their EV vehicles. Their new battery tech seems promising and their valuations are low compared to other pure EV makers. My concern is can GM catch up to Tesla in the EV market? I&amp;#39;m really hoping GM lays out some real cool new modern designs for their cars to cater to the younger market. Their current lineup looks so bland...&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k19ej6,True,,brandobot89,,8,True,all_ads,False,[],False,,/r/investing/comments/k19ej6/can_this_new_battery_tech_propel_gm_to_be_an_ev/,all_ads,False,https://www.reddit.com/r/investing/comments/k19ej6/can_this_new_battery_tech_propel_gm_to_be_an_ev/,1209704,1606369366.0,0,,False
+,investing,"I really want to buy PLTR. Besides my FOMO, I can easily visualize how the technology can be used in most industries. From all my research, I just can’t understand why it had/has a controversial reputation. I ultimately don’t want to buy the stock to have people dump it next due of “ethical” reasons.   I also don’t want to buy it if it will be black/white balled from popular ETFs. Can anyone shed light on the negative reputation risks of Palantir? 
+
+As an example, Soros already stated he will liquidate his holdings in PLTR after he realized he owned the stock:
+“SFM does not approve of Palantir’s business practices. SFM made this investment at a time when the negative social consequences of big data were less understood. SFM would not make an investment in Palantir today.”
+— Soros Fund Management statement
+[George Soros laments investment in Palantir and says he will sell the rest when allowed](https://www.marketwatch.com/story/soros-laments-investment-in-palantir-and-says-he-will-sell-the-rest-when-allowed-11605692099)",t2_2hgz8hyd,False,,0,False,I really want to buy PLTR. But would like to have better clarity on why the company is seemed controversial in the eyes of some? Is it at risk of lower ESG ratings? Or being excluded from popular ETFs.,[],r/investing,False,6,,0,,False,t3_k16zj0,False,dark,0.62,,public,6,0,{},,False,[],,False,False,,{},,False,6,,False,,1606359938.0,,[],{},,True,,1606388278.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I really want to buy PLTR. Besides my FOMO, I can easily visualize how the technology can be used in most industries. From all my research, I just can’t understand why it had/has a controversial reputation. I ultimately don’t want to buy the stock to have people dump it next due of “ethical” reasons.   I also don’t want to buy it if it will be black/white balled from popular ETFs. Can anyone shed light on the negative reputation risks of Palantir? &lt;/p&gt;
+
+&lt;p&gt;As an example, Soros already stated he will liquidate his holdings in PLTR after he realized he owned the stock:
+“SFM does not approve of Palantir’s business practices. SFM made this investment at a time when the negative social consequences of big data were less understood. SFM would not make an investment in Palantir today.”
+— Soros Fund Management statement
+&lt;a href=""https://www.marketwatch.com/story/soros-laments-investment-in-palantir-and-says-he-will-sell-the-rest-when-allowed-11605692099""&gt;George Soros laments investment in Palantir and says he will sell the rest when allowed&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k16zj0,True,,hhh888hhhh,,69,True,all_ads,False,[],False,,/r/investing/comments/k16zj0/i_really_want_to_buy_pltr_but_would_like_to_have/,all_ads,False,https://www.reddit.com/r/investing/comments/k16zj0/i_really_want_to_buy_pltr_but_would_like_to_have/,1209704,1606359478.0,0,,False
+,investing,"https://finance.yahoo.com/news/jobless-claims-week-ended-november-21-232813344.html
+
+The beleaguered U.S. labor market is absorbing a fresh wave of jobless workers, with 778,000 new unemployment claims filed in the latest week, as soaring COVID-19 hospitalizations and deaths lead states and cities to clamp down on public life.
+
+The Department of Labor released its weekly report on initial jobless claims Thursday morning at 8:30 a.m. ET. Here are the numbers compared to what Wall Street expected, according to consensus estimates compiled by Bloomberg:
+
+   Initial jobless claims, week ended Nov. 21: 778,000 vs. 730,000 expected and a revised 748,000 during prior week
+
+   Continuing claims, week ended Nov. 14: 6.07 million vs. 6 million expected and 6.37 million during prior week",t2_31mk6,False,,0,False,"Jobless claims: Another 778,000 workers filed for unemployment",[],r/investing,False,6,,0,,False,t3_k0skoz,False,dark,0.92,,public,64,0,{},,False,[],,False,False,,{},,False,64,,False,,False,,[],{},,True,,1606341311.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://finance.yahoo.com/news/jobless-claims-week-ended-november-21-232813344.html""&gt;https://finance.yahoo.com/news/jobless-claims-week-ended-november-21-232813344.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The beleaguered U.S. labor market is absorbing a fresh wave of jobless workers, with 778,000 new unemployment claims filed in the latest week, as soaring COVID-19 hospitalizations and deaths lead states and cities to clamp down on public life.&lt;/p&gt;
+
+&lt;p&gt;The Department of Labor released its weekly report on initial jobless claims Thursday morning at 8:30 a.m. ET. Here are the numbers compared to what Wall Street expected, according to consensus estimates compiled by Bloomberg:&lt;/p&gt;
+
+&lt;p&gt;Initial jobless claims, week ended Nov. 21: 778,000 vs. 730,000 expected and a revised 748,000 during prior week&lt;/p&gt;
+
+&lt;p&gt;Continuing claims, week ended Nov. 14: 6.07 million vs. 6 million expected and 6.37 million during prior week&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0skoz,True,,daballer2005,,47,True,all_ads,False,[],False,,/r/investing/comments/k0skoz/jobless_claims_another_778000_workers_filed_for/,all_ads,False,https://www.reddit.com/r/investing/comments/k0skoz/jobless_claims_another_778000_workers_filed_for/,1209704,1606312511.0,0,,False
+,investing,"Fear &amp; Greed index is at near all time high right now! Call options lead put options by over 65% indicating the market is too optimistic and greedy! [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/) . 
+
+Also, Treasury Secretary Steven Mnuchin has directed the central bank to return all collateral funding it received for multiple pandemic-era lending programs. They include corporate bond purchases, loans to state and municipal governments, and the Main Street Lending Program for small- and medium-sized businesses.  We will have to wait and see how this is going to affect the market going forward.
+
+I would be very cautious of making any investing in the market right now. A correction or cool off is very likely in the short term!",t2_8ouwiwgx,False,,0,False,BEWARE..Greed is at all time high!,[],r/investing,False,6,,0,,False,t3_k14lm3,False,dark,0.65,,public,10,0,{},,False,[],,False,False,,{},,False,10,,False,,False,,[],{},,True,,1606379059.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Fear &amp;amp; Greed index is at near all time high right now! Call options lead put options by over 65% indicating the market is too optimistic and greedy! &lt;a href=""https://money.cnn.com/data/fear-and-greed/""&gt;https://money.cnn.com/data/fear-and-greed/&lt;/a&gt; . &lt;/p&gt;
+
+&lt;p&gt;Also, Treasury Secretary Steven Mnuchin has directed the central bank to return all collateral funding it received for multiple pandemic-era lending programs. They include corporate bond purchases, loans to state and municipal governments, and the Main Street Lending Program for small- and medium-sized businesses.  We will have to wait and see how this is going to affect the market going forward.&lt;/p&gt;
+
+&lt;p&gt;I would be very cautious of making any investing in the market right now. A correction or cool off is very likely in the short term!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k14lm3,True,,need4gains,,19,True,all_ads,False,[],False,,/r/investing/comments/k14lm3/bewaregreed_is_at_all_time_high/,all_ads,False,https://www.reddit.com/r/investing/comments/k14lm3/bewaregreed_is_at_all_time_high/,1209704,1606350259.0,0,,False
+,investing,"Hi everyone,
+
+as you all know, the US markets are closed today, but the local markets in the EU are open and allow to trade US stocks locally. Some US stocks went +10% in the EU today but remain at +/-0 after hours in the US. What will happen to the price discrepancy tomorrow when the US market opens again? How do EU prices for US stocks influence US markets? 
+
+I appreciate your input!",t2_8ygo93ff,False,,0,False,"Today, the US markets are closed. In the EU it's open. What happens to price differences on Friday?",[],r/investing,False,6,,0,,True,t3_k1dszu,False,dark,0.67,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606419583.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;as you all know, the US markets are closed today, but the local markets in the EU are open and allow to trade US stocks locally. Some US stocks went +10% in the EU today but remain at +/-0 after hours in the US. What will happen to the price discrepancy tomorrow when the US market opens again? How do EU prices for US stocks influence US markets? &lt;/p&gt;
+
+&lt;p&gt;I appreciate your input!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1dszu,True,,giving_zero_fox,,5,True,all_ads,False,[],False,,/r/investing/comments/k1dszu/today_the_us_markets_are_closed_in_the_eu_its/,all_ads,False,https://www.reddit.com/r/investing/comments/k1dszu/today_the_us_markets_are_closed_in_the_eu_its/,1209704,1606390783.0,0,,False
+,investing,"These following events are very likely to cause high increase of Covid cases:
+
+- Thanksgiving
+
+- Christmas
+
+- New Years Eve
+
+People will be unlikely to sit them all out.
+
+With added confidence in vaccine people can get less careful and end up in another Covid wave in January 2021.
+
+How much do you think of that is already priced in?",t2_8r1fi27c,False,,0,False,How much of third wave is already priced in?,[],r/investing,False,6,,0,,False,t3_k1b312,False,dark,0.67,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1606405865.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;These following events are very likely to cause high increase of Covid cases:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thanksgiving&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Christmas&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;New Years Eve&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;People will be unlikely to sit them all out.&lt;/p&gt;
+
+&lt;p&gt;With added confidence in vaccine people can get less careful and end up in another Covid wave in January 2021.&lt;/p&gt;
+
+&lt;p&gt;How much do you think of that is already priced in?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1b312,True,,BoomerLoomerTrooper,,6,True,all_ads,False,[],False,,/r/investing/comments/k1b312/how_much_of_third_wave_is_already_priced_in/,all_ads,False,https://www.reddit.com/r/investing/comments/k1b312/how_much_of_third_wave_is_already_priced_in/,1209704,1606377065.0,0,,False
+,investing,"To hell with those braindead ""passive investors"" just mindlessly putting paychecks after paychecks into muuuuuhhhh safe and eternally rising indexes like SPY and QQQ, inflating the index bubble, disabling proper price discovery in the market.
+
+ETFs imo serve a purpose, but its been distorted by the snake oil sellers like portfolio managers for retail mom and pop investors as a ""safe"" instrument and result in partial market failure. 
+
+its sickening to see so many trading days on the US stock market where every stocks goes green, then on some days every stock goes red. a proper market should never be like this. stock picking should matter much more.",t2_8uvxynfd,False,,0,False,Unpopular opinion: EU's banning on investing in US ETFs is a great thing,[],r/investing,False,6,,0,,True,t3_k1drov,False,dark,0.43,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,False,,[],{},,True,,1606419404.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;To hell with those braindead &amp;quot;passive investors&amp;quot; just mindlessly putting paychecks after paychecks into muuuuuhhhh safe and eternally rising indexes like SPY and QQQ, inflating the index bubble, disabling proper price discovery in the market.&lt;/p&gt;
+
+&lt;p&gt;ETFs imo serve a purpose, but its been distorted by the snake oil sellers like portfolio managers for retail mom and pop investors as a &amp;quot;safe&amp;quot; instrument and result in partial market failure. &lt;/p&gt;
+
+&lt;p&gt;its sickening to see so many trading days on the US stock market where every stocks goes green, then on some days every stock goes red. a proper market should never be like this. stock picking should matter much more.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1drov,True,,verzidutto,,3,True,all_ads,False,[],False,,/r/investing/comments/k1drov/unpopular_opinion_eus_banning_on_investing_in_us/,all_ads,False,https://www.reddit.com/r/investing/comments/k1drov/unpopular_opinion_eus_banning_on_investing_in_us/,1209704,1606390604.0,0,,False
+,investing,"I am 16 years old and finally convinced my parents to invest for 200-250 euro. I was thinking about NIO,  CSIQ,  WKHS or PINS. What do you recommend me? I have already learned about the market for 6 months,  but I want to make in the long term growth so what do you think that is the best long term growing stock ? My goal is just to hold it and every month to grow my portfolio, I am saving for retirement when I am oké.  I you have tips I would love to receive them. 
+Thanks ! I appreciate it !",t2_8pkn90qk,False,,0,False,Need advice,[],r/investing,False,6,,0,,True,t3_k1diba,False,dark,1.0,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606418154.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I am 16 years old and finally convinced my parents to invest for 200-250 euro. I was thinking about NIO,  CSIQ,  WKHS or PINS. What do you recommend me? I have already learned about the market for 6 months,  but I want to make in the long term growth so what do you think that is the best long term growing stock ? My goal is just to hold it and every month to grow my portfolio, I am saving for retirement when I am oké.  I you have tips I would love to receive them. 
+Thanks ! I appreciate it !&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1diba,True,,Warriormodeon,,4,True,all_ads,False,[],False,,/r/investing/comments/k1diba/need_advice/,all_ads,False,https://www.reddit.com/r/investing/comments/k1diba/need_advice/,1209704,1606389354.0,0,,False
+,investing,"After reading the recent news about Tesla having to recall yet another batch of vehicles ([https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/](https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/)) after the roof issue earlier, as a savvy investor I decided to do some due diligence on its past record of deliveries and recalls:
+
+&amp;#x200B;
+
+|Year|Model S + X deliveries|Model 3 + Y deliveries|
+|:-|:-|:-|
+|2019    |66,600|300,600|
+|2018|99,310|145,610|
+|2017|101,250||
+|2016|76,211||
+|2015|123,057||
+|2014|34,523||
+|2013|22,477||
+|Total deliveries|523,428|446,210|
+
+Source: Company disclosure
+
+&amp;#x200B;
+
+|Year|\# of vehicle recalls (Model S/X)|Issue|
+|:-|:-|:-|
+|2020|30,000|Suspension issues|
+|2020|9,000|Roofs flying off|
+|2020|50,000|Front and rear suspensions|
+|2019|\-|Industry wide Takata airbag recall|
+|2018|123,000|Power steering fault|
+|2017|53,000|Parking brake 'lock up' issue|
+|2017|11,000|Second row seat malfunction|
+|2016|2,700|Seats collapse forward during crash|
+|2015|90,000|Faulty seatbelt|
+|Total recalls|368,700||
+|As a % of total deliveries|70%||
+
+&amp;#x200B;
+
+In comparison, Ford recalled 1.3 mil vehicles from 2014 to 2018 while selling 32.2 mil vehicles in the same time period. Fiat Chrysler also recalled 5.3 mil vehicles made between 2014 and 2018 while logging vehicle sales quantity of more than 400 mil over that period of time. Recall numbers as taken from [https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/](https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/). This means an average of about 1-4% recall per new vehicle sale.
+
+&amp;#x200B;
+
+To me Tesla's ones looks like an abnormally high recall rate. 
+
+&amp;#x200B;
+
+What'd y'all think?",t2_701452n0,False,,0,False,Tesla's vehicle deliveries and recalls (DD),[],r/investing,False,6,,0,,False,t3_k0wtau,False,dark,0.74,,public,21,0,{},,False,[],,False,False,,{},,False,21,,False,,False,,[],{},,True,,1606354990.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;After reading the recent news about Tesla having to recall yet another batch of vehicles (&lt;a href=""https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/""&gt;https://nypost.com/2020/11/25/tesla-recalling-more-than-9000-model-x-cars/&lt;/a&gt;) after the roof issue earlier, as a savvy investor I decided to do some due diligence on its past record of deliveries and recalls:&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=""left""&gt;Year&lt;/th&gt;
+&lt;th align=""left""&gt;Model S + X deliveries&lt;/th&gt;
+&lt;th align=""left""&gt;Model 3 + Y deliveries&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2019&lt;/td&gt;
+&lt;td align=""left""&gt;66,600&lt;/td&gt;
+&lt;td align=""left""&gt;300,600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2018&lt;/td&gt;
+&lt;td align=""left""&gt;99,310&lt;/td&gt;
+&lt;td align=""left""&gt;145,610&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2017&lt;/td&gt;
+&lt;td align=""left""&gt;101,250&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2016&lt;/td&gt;
+&lt;td align=""left""&gt;76,211&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2015&lt;/td&gt;
+&lt;td align=""left""&gt;123,057&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2014&lt;/td&gt;
+&lt;td align=""left""&gt;34,523&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2013&lt;/td&gt;
+&lt;td align=""left""&gt;22,477&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;Total deliveries&lt;/td&gt;
+&lt;td align=""left""&gt;523,428&lt;/td&gt;
+&lt;td align=""left""&gt;446,210&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;Source: Company disclosure&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=""left""&gt;Year&lt;/th&gt;
+&lt;th align=""left""&gt;# of vehicle recalls (Model S/X)&lt;/th&gt;
+&lt;th align=""left""&gt;Issue&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2020&lt;/td&gt;
+&lt;td align=""left""&gt;30,000&lt;/td&gt;
+&lt;td align=""left""&gt;Suspension issues&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2020&lt;/td&gt;
+&lt;td align=""left""&gt;9,000&lt;/td&gt;
+&lt;td align=""left""&gt;Roofs flying off&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2020&lt;/td&gt;
+&lt;td align=""left""&gt;50,000&lt;/td&gt;
+&lt;td align=""left""&gt;Front and rear suspensions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2019&lt;/td&gt;
+&lt;td align=""left""&gt;-&lt;/td&gt;
+&lt;td align=""left""&gt;Industry wide Takata airbag recall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2018&lt;/td&gt;
+&lt;td align=""left""&gt;123,000&lt;/td&gt;
+&lt;td align=""left""&gt;Power steering fault&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2017&lt;/td&gt;
+&lt;td align=""left""&gt;53,000&lt;/td&gt;
+&lt;td align=""left""&gt;Parking brake &amp;#39;lock up&amp;#39; issue&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2017&lt;/td&gt;
+&lt;td align=""left""&gt;11,000&lt;/td&gt;
+&lt;td align=""left""&gt;Second row seat malfunction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2016&lt;/td&gt;
+&lt;td align=""left""&gt;2,700&lt;/td&gt;
+&lt;td align=""left""&gt;Seats collapse forward during crash&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;2015&lt;/td&gt;
+&lt;td align=""left""&gt;90,000&lt;/td&gt;
+&lt;td align=""left""&gt;Faulty seatbelt&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;Total recalls&lt;/td&gt;
+&lt;td align=""left""&gt;368,700&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;As a % of total deliveries&lt;/td&gt;
+&lt;td align=""left""&gt;70%&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;In comparison, Ford recalled 1.3 mil vehicles from 2014 to 2018 while selling 32.2 mil vehicles in the same time period. Fiat Chrysler also recalled 5.3 mil vehicles made between 2014 and 2018 while logging vehicle sales quantity of more than 400 mil over that period of time. Recall numbers as taken from &lt;a href=""https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/""&gt;https://autoversed.com/the-biggest-automotive-recalls-of-the-past-decade/&lt;/a&gt;. This means an average of about 1-4% recall per new vehicle sale.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;To me Tesla&amp;#39;s ones looks like an abnormally high recall rate. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;d y&amp;#39;all think?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0wtau,True,,Seaworthiness_Local,,29,True,all_ads,False,[],False,,/r/investing/comments/k0wtau/teslas_vehicle_deliveries_and_recalls_dd/,all_ads,False,https://www.reddit.com/r/investing/comments/k0wtau/teslas_vehicle_deliveries_and_recalls_dd/,1209704,1606326190.0,0,,False
+,investing,"Hi everyone! I just started trying to invest, found a stock LTRPA that owns 23% of TRIP, which implies a market cap of $800m based on TRIP's $3.7bn market cap, but the market cap is $300m. What am I missing here???? Shouldn't LTRPA at least double?? Sorry for the naive question! Also, Tripadvisor's earnings are almost back to prepandemic levels due to cost cutting and new initiatives in markets like Dubai, so it should be way more leveraged to a reopen",t2_91qwg9bj,False,,0,False,Liberty Tripadvisor Stock,[],r/investing,False,6,,0,,True,t3_k1d8eh,False,dark,1.0,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606416809.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi everyone! I just started trying to invest, found a stock LTRPA that owns 23% of TRIP, which implies a market cap of $800m based on TRIP&amp;#39;s $3.7bn market cap, but the market cap is $300m. What am I missing here???? Shouldn&amp;#39;t LTRPA at least double?? Sorry for the naive question! Also, Tripadvisor&amp;#39;s earnings are almost back to prepandemic levels due to cost cutting and new initiatives in markets like Dubai, so it should be way more leveraged to a reopen&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1d8eh,True,,Rare_Trainer,,4,True,all_ads,False,[],False,,/r/investing/comments/k1d8eh/liberty_tripadvisor_stock/,all_ads,False,https://www.reddit.com/r/investing/comments/k1d8eh/liberty_tripadvisor_stock/,1209704,1606388009.0,0,,False
+,investing,"Hi all, I was wondering if I should buy the UK equivalent of the ETF? This is because I use Trading212 and they don't allow the purchase of the US etfs. I did a bit of research and found the return on the UK etfs are slightly lower because of the exchange rate. If I am planning on holding it for long term, how much will the exchange rate affect me and is it better to hold my etfs in GBP or USD?",t2_3qvqovnp,False,,0,False,"UK equivalent ETFS of the US (EQQQ vs QQQ, VUSA vs VOO etc.)",[],r/investing,False,6,,0,,False,t3_k1cucs,False,dark,1.0,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606414816.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi all, I was wondering if I should buy the UK equivalent of the ETF? This is because I use Trading212 and they don&amp;#39;t allow the purchase of the US etfs. I did a bit of research and found the return on the UK etfs are slightly lower because of the exchange rate. If I am planning on holding it for long term, how much will the exchange rate affect me and is it better to hold my etfs in GBP or USD?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1cucs,True,,MarsupialAdept,,1,True,all_ads,False,[],False,,/r/investing/comments/k1cucs/uk_equivalent_etfs_of_the_us_eqqq_vs_qqq_vusa_vs/,all_ads,False,https://www.reddit.com/r/investing/comments/k1cucs/uk_equivalent_etfs_of_the_us_eqqq_vs_qqq_vusa_vs/,1209705,1606386016.0,0,,False
+,investing,"For those of you looking at UK markets - I think good long term growth potential when Brexit teething problems and worst of covid out the way - what do you think of Tesco? 
+
+Obviously fared well during the pandemic like the rest of the sector, but still below pre-covid prices and, with turnaround complete, could really push on in the New Year.
+
+Relatively new to taking control of my own finances but seems to be decent value there in the long term.",t2_4q700dr9,False,,0,False,Value in Tesco?,[],r/investing,False,6,,0,,False,t3_k1ctik,False,dark,0.6,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606414691.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;For those of you looking at UK markets - I think good long term growth potential when Brexit teething problems and worst of covid out the way - what do you think of Tesco? &lt;/p&gt;
+
+&lt;p&gt;Obviously fared well during the pandemic like the rest of the sector, but still below pre-covid prices and, with turnaround complete, could really push on in the New Year.&lt;/p&gt;
+
+&lt;p&gt;Relatively new to taking control of my own finances but seems to be decent value there in the long term.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1ctik,True,,HugoDoss,,2,True,all_ads,False,[],False,,/r/investing/comments/k1ctik/value_in_tesco/,all_ads,False,https://www.reddit.com/r/investing/comments/k1ctik/value_in_tesco/,1209705,1606385891.0,0,,False
+,investing," I'm currently unemployed due to a covid layoff and have decided to sell my shares of UPS stock. The problem is I do not know much about stocks and only accumulated this through work.
+
+What would you recommend for the highest payout? A former co-worker recommends to hold off until 2021. I do not want to get too greedy either because the money would help so may just do it now.",t2_2hphqukf,False,,0,False,When to sell UPS Stock? Now or Jan 2021?,[],r/investing,False,6,,0,,False,t3_k12tfi,False,dark,0.72,,public,9,0,{},,False,[],,False,False,,{},,False,9,,False,,False,,[],{},,True,,1606373056.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I&amp;#39;m currently unemployed due to a covid layoff and have decided to sell my shares of UPS stock. The problem is I do not know much about stocks and only accumulated this through work.&lt;/p&gt;
+
+&lt;p&gt;What would you recommend for the highest payout? A former co-worker recommends to hold off until 2021. I do not want to get too greedy either because the money would help so may just do it now.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k12tfi,True,,JustStatingFacts101,,18,True,all_ads,False,[],False,,/r/investing/comments/k12tfi/when_to_sell_ups_stock_now_or_jan_2021/,all_ads,False,https://www.reddit.com/r/investing/comments/k12tfi/when_to_sell_ups_stock_now_or_jan_2021/,1209705,1606344256.0,0,,False
+,investing,"I have around 7k USD in Tesla right now, which is basically all my savings, and as you all know it's been going up a lot since the announcement that they would be added to the S&amp;P list.
+
+Yesterday I figured that this growth would probably continue for the rest of December, since they still need to actually be added to the list. So I thought it would be a good idea to open up a loan with my bank for about 3k and invest it into Tesla. Because you know, leverage!
+
+I believed this could play out in 2 ways.
+
+1. Either Tesla goes up a bunch in the next month and I can pay back my loan with basically 0% interest and let the rest of my profit sit in Tesla.
+2. Tesla doesn't go up immediately, or maybe even dip down a bit, and I just let my loan sit there. I have 18 months to pay it back and if I do that then it'll cost me 200 USD interest. But I feel relatively confident that in those 18 months I'll have made more than 200 USD from rising Tesla stock.
+
+But this morning when I woke up I thought, hmmm, what if the stock actually plummets when they get added to the S&amp;P list, because maybe that's the exact moment that a lot of people will think it's the best time to sell their Tesla stock to make some money. I'm a bit scared of that scenario. Even though maybe I have nothing to be afraid of if I just let my money sit there for the full 18 months.
+
+I wonder what the experienced investors in this subreddit find the most likely scenario. Do you think it will keep going up when Tesla actually gets added to the S&amp;P list? Or do you think it might plummet? Or just stay relatively stable?",t2_4rqo9,False,,0,False,"Question from a rookie, what do you guys think will happen to Tesla next month?",[],r/investing,False,6,,0,,False,t3_k1chqh,False,dark,0.5,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,False,,[],{},,True,,1606413013.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I have around 7k USD in Tesla right now, which is basically all my savings, and as you all know it&amp;#39;s been going up a lot since the announcement that they would be added to the S&amp;amp;P list.&lt;/p&gt;
+
+&lt;p&gt;Yesterday I figured that this growth would probably continue for the rest of December, since they still need to actually be added to the list. So I thought it would be a good idea to open up a loan with my bank for about 3k and invest it into Tesla. Because you know, leverage!&lt;/p&gt;
+
+&lt;p&gt;I believed this could play out in 2 ways.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Either Tesla goes up a bunch in the next month and I can pay back my loan with basically 0% interest and let the rest of my profit sit in Tesla.&lt;/li&gt;
+&lt;li&gt;Tesla doesn&amp;#39;t go up immediately, or maybe even dip down a bit, and I just let my loan sit there. I have 18 months to pay it back and if I do that then it&amp;#39;ll cost me 200 USD interest. But I feel relatively confident that in those 18 months I&amp;#39;ll have made more than 200 USD from rising Tesla stock.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But this morning when I woke up I thought, hmmm, what if the stock actually plummets when they get added to the S&amp;amp;P list, because maybe that&amp;#39;s the exact moment that a lot of people will think it&amp;#39;s the best time to sell their Tesla stock to make some money. I&amp;#39;m a bit scared of that scenario. Even though maybe I have nothing to be afraid of if I just let my money sit there for the full 18 months.&lt;/p&gt;
+
+&lt;p&gt;I wonder what the experienced investors in this subreddit find the most likely scenario. Do you think it will keep going up when Tesla actually gets added to the S&amp;amp;P list? Or do you think it might plummet? Or just stay relatively stable?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1chqh,True,,live_love_laugh,,16,True,all_ads,False,[],False,,/r/investing/comments/k1chqh/question_from_a_rookie_what_do_you_guys_think/,all_ads,False,https://www.reddit.com/r/investing/comments/k1chqh/question_from_a_rookie_what_do_you_guys_think/,1209705,1606384213.0,0,,False
+,investing,"Good morning from Spain. I recently got into investing small amounts of money 400-600€. I was using the trading platform trading212 but after a time, I feel like the platform has too many basic problems, loss of connection, bad page design etc.
+
+Which platform do you guys recommend?
+
+I’m not a total beginner the way, so please all advice you can offer is welcome. 
+
+Thank you all.",t2_11um7e,False,,0,False,Which app do you guys recommend to people new to investing?,[],r/investing,False,6,,0,,False,t3_k1cfdr,False,dark,0.67,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606412653.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Good morning from Spain. I recently got into investing small amounts of money 400-600€. I was using the trading platform trading212 but after a time, I feel like the platform has too many basic problems, loss of connection, bad page design etc.&lt;/p&gt;
+
+&lt;p&gt;Which platform do you guys recommend?&lt;/p&gt;
+
+&lt;p&gt;I’m not a total beginner the way, so please all advice you can offer is welcome. &lt;/p&gt;
+
+&lt;p&gt;Thank you all.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1cfdr,True,,Ar3tri304,,2,True,all_ads,False,[],False,,/r/investing/comments/k1cfdr/which_app_do_you_guys_recommend_to_people_new_to/,all_ads,False,https://www.reddit.com/r/investing/comments/k1cfdr/which_app_do_you_guys_recommend_to_people_new_to/,1209705,1606383853.0,0,,False
+,investing,"https://www.marketwatch.com/articles/dow-crosses-30000-as-stocks-stage-a-v-shaped-rebound-51605548142?mod=mw_latestnews
+
+I didn't think we'd be here so fast after March. Which was the only time id ever really had any of my risk tolerance tested (my delta stock :s ).
+
+can't believe it hit here before the end of 2020
+
+edit at 4:01PM EST: Dow finishes above 30,000 mark too at market close.",t2_58yrh,False,,0,False,"Dow Crosses 30,000 mark-first time ever",[],r/investing,False,6,,0,,False,t3_k08gnz,False,dark,0.97,,public,1926,4,{},,False,[],,False,False,,{},,False,1926,,False,,1606251689.0,,[],{},,True,,1606264854.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;a href=""https://www.marketwatch.com/articles/dow-crosses-30000-as-stocks-stage-a-v-shaped-rebound-51605548142?mod=mw_latestnews""&gt;https://www.marketwatch.com/articles/dow-crosses-30000-as-stocks-stage-a-v-shaped-rebound-51605548142?mod=mw_latestnews&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#39;t think we&amp;#39;d be here so fast after March. Which was the only time id ever really had any of my risk tolerance tested (my delta stock :s ).&lt;/p&gt;
+
+&lt;p&gt;can&amp;#39;t believe it hit here before the end of 2020&lt;/p&gt;
+
+&lt;p&gt;edit at 4:01PM EST: Dow finishes above 30,000 mark too at market close.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 150, 'id': 'award_f44611f1-b89e-46dc-97fe-892280b13b82', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Thank you stranger. Shows the award.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Helpful', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png'}, {'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 125, 'id': 'award_5f123e3d-4f48-42f4-9c11-e98b566d5897', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'When you come across a feel-good thing.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 2, 'static_icon_height': 2048, 'name': 'Wholesome', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png'}, {'giver_coin_reward': 0, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 80, 'id': 'award_8352bdff-3e03-4189-8a08-82501dd8f835', 'penny_donate': 0, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Everything is better with a good hug', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Hugz', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f', 'width': 128, 'height': 128}], 'icon_format': 'PNG', 'icon_height': 2048, 'penny_price': 0, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k08gnz,True,,Archerbro,,710,True,all_ads,False,[],False,,/r/investing/comments/k08gnz/dow_crosses_30000_markfirst_time_ever/,all_ads,False,https://www.reddit.com/r/investing/comments/k08gnz/dow_crosses_30000_markfirst_time_ever/,1209705,1606236054.0,1,,False
+,investing,Can someone please explain what the SQQQ is? Someone told me that you can lose more than you invest with it because its a short is this true? I'm not looking to buy this stock I'm just trying to understand it. Why would someone buy it?  Thanks for the help.,t2_z7mly,False,,0,False,SQQQ?,[],r/investing,False,6,,0,,False,t3_k19k47,False,dark,1.0,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1606398848.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Can someone please explain what the SQQQ is? Someone told me that you can lose more than you invest with it because its a short is this true? I&amp;#39;m not looking to buy this stock I&amp;#39;m just trying to understand it. Why would someone buy it?  Thanks for the help.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k19k47,True,,balls1016,,12,True,all_ads,False,[],False,,/r/investing/comments/k19k47/sqqq/,all_ads,False,https://www.reddit.com/r/investing/comments/k19k47/sqqq/,1209705,1606370048.0,0,,False
+,investing,"What your view in buying Vertiv to get into cloud computing indirectly and benefit from being in a growth industry. 
+
+It provides needed infrastructure to data centers. Also it started its dividend this year.
+
+Seems it worth investing in for medium to long term growth. Won't blast off like tech stocks, but should provide decent growth.",t2_90l14b7n,False,,0,False,"VRT, is it a good way to invest in cloud computing growth?",[],r/investing,False,6,,0,,False,t3_k11jn1,False,dark,0.92,,public,10,0,{},,False,[],,False,False,,{},,False,10,,False,,False,,[],{},,True,,1606369188.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;What your view in buying Vertiv to get into cloud computing indirectly and benefit from being in a growth industry. &lt;/p&gt;
+
+&lt;p&gt;It provides needed infrastructure to data centers. Also it started its dividend this year.&lt;/p&gt;
+
+&lt;p&gt;Seems it worth investing in for medium to long term growth. Won&amp;#39;t blast off like tech stocks, but should provide decent growth.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k11jn1,True,,one8e4,,12,True,all_ads,False,[],False,,/r/investing/comments/k11jn1/vrt_is_it_a_good_way_to_invest_in_cloud_computing/,all_ads,False,https://www.reddit.com/r/investing/comments/k11jn1/vrt_is_it_a_good_way_to_invest_in_cloud_computing/,1209705,1606340388.0,0,,False
+,investing,if my option expires Friday the 27th does it expire at 12 AM or at the end of the day? mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm,t2_8rp5rld3,False,,0,False,Options question,[],r/investing,False,6,,0,,False,t3_k1c3ue,False,dark,0.5,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,False,,[],{},,True,,1606411004.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;if my option expires Friday the 27th does it expire at 12 AM or at the end of the day? mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm mmmmm&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1c3ue,True,,Prestigious-Koala26,,3,True,all_ads,False,[],False,,/r/investing/comments/k1c3ue/options_question/,all_ads,False,https://www.reddit.com/r/investing/comments/k1c3ue/options_question/,1209705,1606382204.0,0,,False
+,investing,"Hi 
+
+I have finally made the plunge into investing after years of delay to increase my knowledge mainly. 
+
+Background 
+28 Year old engineer Earning £42,000 pa 
+Objective is retirement fund at 55, risk tolerance is medium I know my money is not guaranteed to be safe. No holdings apart from below which started this week. I have no debt apart from student loan at 25k which I pay to monthly 
+
+I’ve started with the following investments on trading212 and wanted to get general thoughts. As I am looking long term I’ve decided to make my investments in mainly ETFs 
+
+I’ve chosen the following 
+Ishares physical gold 10%
+Ishares clean energy fund 15%
+Ishares s&amp;p 500 65%
+Indivual stocks 10% - rolls Royce, Iag, plug power, nviada, slack, Pltr  
+
+Any thoughts would be appreciated",t2_91htx4om,False,,0,False,Starter portfolio advice,[],r/investing,False,6,,0,,False,t3_k1bzm5,False,dark,0.67,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,1606384145.0,,[],{},,True,,1606410414.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi &lt;/p&gt;
+
+&lt;p&gt;I have finally made the plunge into investing after years of delay to increase my knowledge mainly. &lt;/p&gt;
+
+&lt;p&gt;Background 
+28 Year old engineer Earning £42,000 pa 
+Objective is retirement fund at 55, risk tolerance is medium I know my money is not guaranteed to be safe. No holdings apart from below which started this week. I have no debt apart from student loan at 25k which I pay to monthly &lt;/p&gt;
+
+&lt;p&gt;I’ve started with the following investments on trading212 and wanted to get general thoughts. As I am looking long term I’ve decided to make my investments in mainly ETFs &lt;/p&gt;
+
+&lt;p&gt;I’ve chosen the following 
+Ishares physical gold 10%
+Ishares clean energy fund 15%
+Ishares s&amp;amp;p 500 65%
+Indivual stocks 10% - rolls Royce, Iag, plug power, nviada, slack, Pltr  &lt;/p&gt;
+
+&lt;p&gt;Any thoughts would be appreciated&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1bzm5,True,,Confused_Nomad23,,6,True,all_ads,False,[],False,,/r/investing/comments/k1bzm5/starter_portfolio_advice/,all_ads,False,https://www.reddit.com/r/investing/comments/k1bzm5/starter_portfolio_advice/,1209705,1606381614.0,0,,False
+,investing,So my friend came over after we haven’t talked in within a year and he shows of how much he’s made in the stock he has a place in Malibu making good money he’s had success in the stock market and I was afraid to ask I know it takes a good portion of money to invest but I’m willing to risk and learn for success do you guys know how to?,t2_70zwdfnw,False,,0,False,[stock market] I want to learn how to do it?,[],r/investing,False,6,,0,,False,t3_k1bh71,False,dark,0.33,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,False,,[],{},,True,,1606407868.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;So my friend came over after we haven’t talked in within a year and he shows of how much he’s made in the stock he has a place in Malibu making good money he’s had success in the stock market and I was afraid to ask I know it takes a good portion of money to invest but I’m willing to risk and learn for success do you guys know how to?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1bh71,True,,goodguy-yeah2314,,8,True,all_ads,False,[],False,,/r/investing/comments/k1bh71/stock_market_i_want_to_learn_how_to_do_it/,all_ads,False,https://www.reddit.com/r/investing/comments/k1bh71/stock_market_i_want_to_learn_how_to_do_it/,1209705,1606379068.0,0,,False
+,investing,"I just opened account recently and I want to invest in S&amp;P500 since it is the smart option I guess.  
+
+
+I am a 20 years old student and I can save 250$ per month for investing in the S&amp;P500.  
+When I search for S&amp;P500 I found out that I need to deposit 500$...  
+So I started searching for other things and found something call SPX500 and it had an American flag next to it, I tried to invest there and i found out that i can invest but with leverage
+
+Here is an image of when I tried to invest in S&amp;P500 Vanguard 
+
+[https://imgur.com/a/6bNvVOC](https://imgur.com/a/6bNvVOC)
+
+&amp;#x200B;
+
+and here is the SPX500
+
+[https://imgur.com/a/uqrEsAY](https://imgur.com/a/uqrEsAY)",t2_65yn1l5n,False,,0,False,Is SPX500 same as S&amp;P500?,[],r/investing,False,6,,0,,False,t3_k1b5g1,False,dark,1.0,,public,1,0,{},,False,[],,False,False,,{},,False,1,,False,,False,,[],{},,True,,1606406218.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I just opened account recently and I want to invest in S&amp;amp;P500 since it is the smart option I guess.  &lt;/p&gt;
+
+&lt;p&gt;I am a 20 years old student and I can save 250$ per month for investing in the S&amp;amp;P500.&lt;br/&gt;
+When I search for S&amp;amp;P500 I found out that I need to deposit 500$...&lt;br/&gt;
+So I started searching for other things and found something call SPX500 and it had an American flag next to it, I tried to invest there and i found out that i can invest but with leverage&lt;/p&gt;
+
+&lt;p&gt;Here is an image of when I tried to invest in S&amp;amp;P500 Vanguard &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://imgur.com/a/6bNvVOC""&gt;https://imgur.com/a/6bNvVOC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;and here is the SPX500&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://imgur.com/a/uqrEsAY""&gt;https://imgur.com/a/uqrEsAY&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1b5g1,True,,ToraNoa,,3,True,all_ads,False,[],False,,/r/investing/comments/k1b5g1/is_spx500_same_as_sp500/,all_ads,False,https://www.reddit.com/r/investing/comments/k1b5g1/is_spx500_same_as_sp500/,1209705,1606377418.0,0,,False
+,investing,"Penumbra is about to tank hard. Their Xtra Flex catheter meant to help people with heart problems and what not has killed 11 users and injured many more. Theyre going to be facing lots of legal trouble soon. A couple days ago a hedge fund manager known as Gabriel Grego pointed out that $PEN is going to shit too and they fell 8% that day. Also when the news about this first started back at the end of this summer, the company's president who is also the CEO sold 1.5 million worth of PEN shares. Look at today and yesterday too. Its just gonna drop even more and faster once more people hear about it.",t2_54vukjqg,False,,0,False,Short Penumbra,[],r/investing,False,6,,0,,False,t3_k10d3d,False,dark,0.82,,public,10,0,{},,False,[],,False,False,,{},,False,10,,False,,False,,[],{},,True,,1606365485.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Penumbra is about to tank hard. Their Xtra Flex catheter meant to help people with heart problems and what not has killed 11 users and injured many more. Theyre going to be facing lots of legal trouble soon. A couple days ago a hedge fund manager known as Gabriel Grego pointed out that $PEN is going to shit too and they fell 8% that day. Also when the news about this first started back at the end of this summer, the company&amp;#39;s president who is also the CEO sold 1.5 million worth of PEN shares. Look at today and yesterday too. Its just gonna drop even more and faster once more people hear about it.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k10d3d,True,,Sharptire,,3,True,all_ads,False,[],False,,/r/investing/comments/k10d3d/short_penumbra/,all_ads,False,https://www.reddit.com/r/investing/comments/k10d3d/short_penumbra/,1209705,1606336685.0,0,,False
+,investing,"Hi Guys,
+
+I've noticed that almost all top-ranking people(CEO, COO, Directors) at Cloudflare ($NET) have been selling a considerable amount of shares in the last 2 weeks.
+
+Here is what I see in Wallmine:
+
+[cloudflare insider sale](https://ibb.co/Y01L4w3)
+
+What to make out of it? Is it just taking home some gains from the recent price hike?",t2_4769u8bl,False,,0,False,Cloudflare Insider sales - What does it mean?,[],r/investing,False,6,,0,,False,t3_k0rncx,False,dark,0.85,,public,26,0,{},,False,[],,False,False,,{},,False,26,,False,,False,,[],{},,True,,1606337595.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi Guys,&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve noticed that almost all top-ranking people(CEO, COO, Directors) at Cloudflare ($NET) have been selling a considerable amount of shares in the last 2 weeks.&lt;/p&gt;
+
+&lt;p&gt;Here is what I see in Wallmine:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://ibb.co/Y01L4w3""&gt;cloudflare insider sale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What to make out of it? Is it just taking home some gains from the recent price hike?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0rncx,True,,cavecanemuk,,28,True,all_ads,False,[],False,,/r/investing/comments/k0rncx/cloudflare_insider_sales_what_does_it_mean/,all_ads,False,https://www.reddit.com/r/investing/comments/k0rncx/cloudflare_insider_sales_what_does_it_mean/,1209705,1606308795.0,0,,False
+,investing,"Investing in companies whose name joins the vocabulary, Have made good profit from Google and uber. Think airbnb will be the same.
+
+My view is that they can't buy that kind of advertising, so they benefit from it. I know it not a great method for picking stocks, but what your view for this exception.
+
+I think airbnb will be a good investment, especially as people will always love to travel. Plus it a business that allows people to make good side money.",t2_90l14b7n,False,,0,False,"Google, Uber, Airbnb",[],r/investing,False,6,,0,,False,t3_k13kmb,False,dark,0.64,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1606375447.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Investing in companies whose name joins the vocabulary, Have made good profit from Google and uber. Think airbnb will be the same.&lt;/p&gt;
+
+&lt;p&gt;My view is that they can&amp;#39;t buy that kind of advertising, so they benefit from it. I know it not a great method for picking stocks, but what your view for this exception.&lt;/p&gt;
+
+&lt;p&gt;I think airbnb will be a good investment, especially as people will always love to travel. Plus it a business that allows people to make good side money.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k13kmb,True,,one8e4,,2,True,all_ads,False,[],False,,/r/investing/comments/k13kmb/google_uber_airbnb/,all_ads,False,https://www.reddit.com/r/investing/comments/k13kmb/google_uber_airbnb/,1209705,1606346647.0,0,,False
+,investing,"As someone who is in their mid 30's and remembers when Bitcoin was trading pennies (don't get me started--I had a friend who had 100s/1000's of them years back but trashed the hard drive), is there an easy way to autopilot this?
+
+I believe Bitcoin can be traded fractionally, which is great. How can I achieve this? I'm a big fan of set it and forget it. Suggestions?
+
+I appreciate the help!",t2_gikeo,False,,0,False,Is there a way to easily and affordably DCA into Bitcoin?,[],r/investing,False,6,,0,,False,t3_k11l0f,False,dark,0.64,,public,3,0,{},,False,[],,False,False,,{},,False,3,,False,,False,,[],{},,True,,1606369304.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;As someone who is in their mid 30&amp;#39;s and remembers when Bitcoin was trading pennies (don&amp;#39;t get me started--I had a friend who had 100s/1000&amp;#39;s of them years back but trashed the hard drive), is there an easy way to autopilot this?&lt;/p&gt;
+
+&lt;p&gt;I believe Bitcoin can be traded fractionally, which is great. How can I achieve this? I&amp;#39;m a big fan of set it and forget it. Suggestions?&lt;/p&gt;
+
+&lt;p&gt;I appreciate the help!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k11l0f,True,,howling_mad,,52,True,all_ads,False,[],False,,/r/investing/comments/k11l0f/is_there_a_way_to_easily_and_affordably_dca_into/,all_ads,False,https://www.reddit.com/r/investing/comments/k11l0f/is_there_a_way_to_easily_and_affordably_dca_into/,1209705,1606340504.0,0,,False
+,investing,"Came across this and I thought it might interesting:
+
+[https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/htmlview](https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/htmlview)
+
+The info is publicly available online, but back in the days when I was raising, it took me a few days to put together something similar.",t2_ykw03eg,False,,0,False,List of 363 questions that VCs and Investors ask Startup Founders (Google Sheet),[],r/investing,False,6,,0,,False,t3_k0rmhb,False,dark,0.84,,public,19,1,{},,False,[],,False,False,,{},,False,19,,True,,False,,[],{'gid_1': 1},,True,,1606337493.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Came across this and I thought it might interesting:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/htmlview""&gt;https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/htmlview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The info is publicly available online, but back in the days when I was raising, it took me a few days to put together something similar.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 100, 'id': 'gid_1', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_width': 512, 'static_icon_width': 512, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': ""Shows the Silver Award... and that's it."", 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 512, 'name': 'Silver', 'resized_static_icons': [{'url': 'https://www.redditstatic.com/gold/awards/icon/silver_16.png', 'width': 16, 'height': 16}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_32.png', 'width': 32, 'height': 32}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_48.png', 'width': 48, 'height': 48}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_64.png', 'width': 64, 'height': 64}, {'url': 'https://www.redditstatic.com/gold/awards/icon/silver_128.png', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 512, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://www.redditstatic.com/gold/awards/icon/silver_512.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0rmhb,True,,maschera84,,3,True,all_ads,False,[],False,,/r/investing/comments/k0rmhb/list_of_363_questions_that_vcs_and_investors_ask/,all_ads,False,https://www.reddit.com/r/investing/comments/k0rmhb/list_of_363_questions_that_vcs_and_investors_ask/,1209705,1606308693.0,0,,False
+,investing,"I was looking for a place to park my money for the medium term within my trading account whilst I pondered which stocks to lose money on . I stumbled on these two. Can someone explain why their prices are so remarkably stable within a narrow band. Are there any downsides to investing in these.. liquidity traps, sudden depreciation and such. Many thanks in advance.",t2_5z1mm,False,,0,False,Can someone explain why VGSH and SPTS prices so remarkably stable?,[],r/investing,False,6,,0,,False,t3_k0ycc8,False,dark,0.84,,public,8,0,{},,False,[],,False,False,,{},,False,8,,False,,False,,[],{},,True,,1606359465.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I was looking for a place to park my money for the medium term within my trading account whilst I pondered which stocks to lose money on . I stumbled on these two. Can someone explain why their prices are so remarkably stable within a narrow band. Are there any downsides to investing in these.. liquidity traps, sudden depreciation and such. Many thanks in advance.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0ycc8,True,,urcooldoc,,5,True,all_ads,False,[],False,,/r/investing/comments/k0ycc8/can_someone_explain_why_vgsh_and_spts_prices_so/,all_ads,False,https://www.reddit.com/r/investing/comments/k0ycc8/can_someone_explain_why_vgsh_and_spts_prices_so/,1209705,1606330665.0,0,,False
+,investing,"Crypto plays
+
+So I was thinking about throwing a couple thousand in crypto.Read into it and thought XRP and Riot may be the best bets. Any thoughts on any of them and/or any other suggestions in what i could look into?
+I was also thinking about going safe route and buying bitcoin or eth, but i do think they mabye have lost most of their juice at this point. 
+
+Follow up question would be:
+I hear loads of people saying crypto is a bubble and the other side basically says its digital gold so a value holder. where do you see value in crypto and mabye tell me why and when you invsted and your views for your personal investement (longterm hold, short term mabye even where you see the price going etc)",t2_7r09hb06,False,,0,False,Crypto plays,[],r/investing,False,6,,0,,False,t3_k0v9ev,False,dark,0.7,,public,10,0,{},,False,[],,False,False,,{},,False,10,,False,,False,,[],{},,True,,1606350433.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Crypto plays&lt;/p&gt;
+
+&lt;p&gt;So I was thinking about throwing a couple thousand in crypto.Read into it and thought XRP and Riot may be the best bets. Any thoughts on any of them and/or any other suggestions in what i could look into?
+I was also thinking about going safe route and buying bitcoin or eth, but i do think they mabye have lost most of their juice at this point. &lt;/p&gt;
+
+&lt;p&gt;Follow up question would be:
+I hear loads of people saying crypto is a bubble and the other side basically says its digital gold so a value holder. where do you see value in crypto and mabye tell me why and when you invsted and your views for your personal investement (longterm hold, short term mabye even where you see the price going etc)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0v9ev,True,,dv_oc871,,51,True,all_ads,False,[],False,,/r/investing/comments/k0v9ev/crypto_plays/,all_ads,False,https://www.reddit.com/r/investing/comments/k0v9ev/crypto_plays/,1209705,1606321633.0,0,,False
+,investing,"26 november. Accurate and interesting article about Tesla: BMW, VW and the rest will catch up with and overtake Tesla in the electric car industry.
+
+https://www.standard.co.uk/business/why-elon-musk-won-t-be-the-second-richest-man-in-the-world-for-long-b79216.html
+
+Tesla has nearly always lost money, though it has had quarterly profits lately that don’t begin to justify the valuation.
+
+The reason for the share surge is, of course, a bet on the future. Investors have noticed that electric cars are quite the fashion.
+
+Traditional car companies are moving away from petrol engines, prompted by changing consumer tastes, ever more urgent calls for action on climate change, and ensuing government rulings.
+
+Tesla has won so far because it was ahead of the curve, it has had the luxury electrical car market almost to itself until now.
+
+Mercedes, BMW, VW and others are now getting their act together and can go to school on Tesla’s mistakes and lessons.
+
+The German, Japanese and indeed the big American auto firms have been around a while for good reason. They are really good at making cars.
+
+As a car driver one problem with Tesla cars, aside from their price is this: they look boring.
+
+From a practical point of view, Tesla does not have enough European presence.
+
+Which means they are likely to run into all sorts of problems with transporting their wares and with tariffs.
+
+Moreover, if you have an accident in a BMW, the dealership up the road can get you the replacement parts you need very quickly. It might take Tesla months.",t2_8ta340xh,False,,0,False,Why Elon Musk won’t be the second richest man in the world for long,[],r/investing,False,6,,0,,False,t3_k1cgy5,False,dark,0.33,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,False,,[],{},,True,,1606412899.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;26 november. Accurate and interesting article about Tesla: BMW, VW and the rest will catch up with and overtake Tesla in the electric car industry.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://www.standard.co.uk/business/why-elon-musk-won-t-be-the-second-richest-man-in-the-world-for-long-b79216.html""&gt;https://www.standard.co.uk/business/why-elon-musk-won-t-be-the-second-richest-man-in-the-world-for-long-b79216.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tesla has nearly always lost money, though it has had quarterly profits lately that don’t begin to justify the valuation.&lt;/p&gt;
+
+&lt;p&gt;The reason for the share surge is, of course, a bet on the future. Investors have noticed that electric cars are quite the fashion.&lt;/p&gt;
+
+&lt;p&gt;Traditional car companies are moving away from petrol engines, prompted by changing consumer tastes, ever more urgent calls for action on climate change, and ensuing government rulings.&lt;/p&gt;
+
+&lt;p&gt;Tesla has won so far because it was ahead of the curve, it has had the luxury electrical car market almost to itself until now.&lt;/p&gt;
+
+&lt;p&gt;Mercedes, BMW, VW and others are now getting their act together and can go to school on Tesla’s mistakes and lessons.&lt;/p&gt;
+
+&lt;p&gt;The German, Japanese and indeed the big American auto firms have been around a while for good reason. They are really good at making cars.&lt;/p&gt;
+
+&lt;p&gt;As a car driver one problem with Tesla cars, aside from their price is this: they look boring.&lt;/p&gt;
+
+&lt;p&gt;From a practical point of view, Tesla does not have enough European presence.&lt;/p&gt;
+
+&lt;p&gt;Which means they are likely to run into all sorts of problems with transporting their wares and with tariffs.&lt;/p&gt;
+
+&lt;p&gt;Moreover, if you have an accident in a BMW, the dealership up the road can get you the replacement parts you need very quickly. It might take Tesla months.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k1cgy5,True,,Flisshearts,,12,True,all_ads,False,[],False,,/r/investing/comments/k1cgy5/why_elon_musk_wont_be_the_second_richest_man_in/,all_ads,False,https://www.reddit.com/r/investing/comments/k1cgy5/why_elon_musk_wont_be_the_second_richest_man_in/,1209705,1606384099.0,0,,False
+,investing,"As of today, 1y Treasury yields are 0.11%, 3y are 0.21%, 10y are 0.88%. At the same time, M2 money supply grew from 15.5T on Mar 2nd to 19T on Nov 9, which is about enormous 23%. Why would someone buy bonds to get less than 1% more several years later, when there is so much new money in the economy? Do they expect M2 to decrease back to its linear trend as it was before the pandemic? Do they expect GDP to grow proportionally?",t2_mtqlj,False,,0,False,Why Treasury yields are so low given such an increase in M2?,[],r/investing,False,6,,0,,False,t3_k171l1,False,dark,0.5,,public,0,0,{},,False,[],,False,False,,{},,False,0,,False,,1606366752.0,,[],{},,True,,1606388497.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;As of today, 1y Treasury yields are 0.11%, 3y are 0.21%, 10y are 0.88%. At the same time, M2 money supply grew from 15.5T on Mar 2nd to 19T on Nov 9, which is about enormous 23%. Why would someone buy bonds to get less than 1% more several years later, when there is so much new money in the economy? Do they expect M2 to decrease back to its linear trend as it was before the pandemic? Do they expect GDP to grow proportionally?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k171l1,True,,sdemyanov,,12,True,all_ads,False,[],False,,/r/investing/comments/k171l1/why_treasury_yields_are_so_low_given_such_an/,all_ads,False,https://www.reddit.com/r/investing/comments/k171l1/why_treasury_yields_are_so_low_given_such_an/,1209705,1606359697.0,0,,False
+,investing,"I'm trying to search scientific papers about stop loss pros and cons but I haven't had much success. Most of the papers I've found rely on sick assumptions and are really biased. The only one I've found that seems more comprehensive is this one where they state that using a trailing stop loss is highly superior than a simple buy and hold strategy (the best results are attained with a 15-20% threshold): [https://lup.lub.lu.se/luur/download?func=downloadFile&amp;recordOId=1474565&amp;fileOId=2435595](https://lup.lub.lu.se/luur/download?func=downloadFile&amp;recordOId=1474565&amp;fileOId=2435595). They do a couple strong assumptions tho (e.g. they only take into account closing prices and not intra-day variance).
+
+&amp;#x200B;
+
+What is the reddit consensus about trailing stop losses? So far, the online evidence seems kinda mixed. Are there some well-known papers out there about this that you could recommend me?
+
+&amp;#x200B;
+
+Thanks in advance.",t2_13otuh,False,,0,False,What does the literature say about trailing stop loss strategies?,[],r/investing,False,6,,0,,False,t3_k13b32,False,dark,0.76,,public,2,0,{},,False,[],,False,False,,{},,False,2,,False,,False,,[],{},,True,,1606374590.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I&amp;#39;m trying to search scientific papers about stop loss pros and cons but I haven&amp;#39;t had much success. Most of the papers I&amp;#39;ve found rely on sick assumptions and are really biased. The only one I&amp;#39;ve found that seems more comprehensive is this one where they state that using a trailing stop loss is highly superior than a simple buy and hold strategy (the best results are attained with a 15-20% threshold): &lt;a href=""https://lup.lub.lu.se/luur/download?func=downloadFile&amp;amp;recordOId=1474565&amp;amp;fileOId=2435595""&gt;https://lup.lub.lu.se/luur/download?func=downloadFile&amp;amp;recordOId=1474565&amp;amp;fileOId=2435595&lt;/a&gt;. They do a couple strong assumptions tho (e.g. they only take into account closing prices and not intra-day variance).&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;What is the reddit consensus about trailing stop losses? So far, the online evidence seems kinda mixed. Are there some well-known papers out there about this that you could recommend me?&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Thanks in advance.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k13b32,True,,XmintMusic,,3,True,all_ads,False,[],False,,/r/investing/comments/k13b32/what_does_the_literature_say_about_trailing_stop/,all_ads,False,https://www.reddit.com/r/investing/comments/k13b32/what_does_the_literature_say_about_trailing_stop/,1209705,1606345790.0,0,,False
+,investing,"Since COVID-19 began, I have been investing in companies I know to be undervalued - that is, once the pandemic is under control, stock prices on these companies providing essential goods and services, will rebound, as they have already started to do.
+
+Anyway, most of the companies I have invested in don't or haven't returned to producing dividends.
+
+I only have about $2000 USD invested so far, but have so far experienced about 40% unrealised ROI.
+
+How should I consolidate my positions while growing my investments? I have considered searching for even more undervalued stocks and flipping some of the gains I have made.",t2_2n0khns4,False,,0,False,Investment strategy when starting out with little money,[],r/investing,False,6,,0,,False,t3_k12b3n,False,dark,0.67,,public,2,0,{},,False,[],,False,False,,{},,False,2,,True,,False,,[],{},,True,,1606371511.0,text,6,,,text,self.investing,False,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Since COVID-19 began, I have been investing in companies I know to be undervalued - that is, once the pandemic is under control, stock prices on these companies providing essential goods and services, will rebound, as they have already started to do.&lt;/p&gt;
+
+&lt;p&gt;Anyway, most of the companies I have invested in don&amp;#39;t or haven&amp;#39;t returned to producing dividends.&lt;/p&gt;
+
+&lt;p&gt;I only have about $2000 USD invested so far, but have so far experienced about 40% unrealised ROI.&lt;/p&gt;
+
+&lt;p&gt;How should I consolidate my positions while growing my investments? I have considered searching for even more undervalued stocks and flipping some of the gains I have made.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k12b3n,True,,MiddleAgedGrump,,4,True,all_ads,False,[],False,,/r/investing/comments/k12b3n/investment_strategy_when_starting_out_with_little/,all_ads,False,https://www.reddit.com/r/investing/comments/k12b3n/investment_strategy_when_starting_out_with_little/,1209705,1606342711.0,0,,False
+,investing,"Nissan Motor Co. is the first and only car manufacturer I’ve ever invested in. The company tanked earlier this year and then came the pandemic and things only got worse for them. And they tanked for very good reasons. Their [debt](https://finance.yahoo.com/news/factbox-rated-one-notch-above-091602153.html?.tsrc=applewf) is only one step from junk status. Their [losses](https://uk.finance.yahoo.com/news/nissan-cuts-annual-operating-loss-081055925.html) the past 18 months have been horrible. That being said, I still see a car manufacturer with huge distribution networks across Asia and a well working production capacity. They make cars on several segments, and they have a clear plan to make high-end EVs. Sure, everyone are talking about doing EVs now, but let’s not forget Nissan did very well in that market space with their Leaf. So early this summer, I bought into the company. It’s been a bumpy ride but the new CEO seems to have a plan and sees a [rebound](https://europe.autonews.com/automakers/nissan-rebound-starts-next-year-ceo-says) next year. I believe Nissan can yet again become a steady dividend stock with growth potential. Either that, or the company won’t survive. What’s your view on Nissan?",t2_ae5rk,False,,0,False,What are your thoughts on Nissan?,[],r/investing,False,6,,0,,False,t3_k0ooxn,False,dark,0.7,,public,20,1,{},,False,[],,False,False,,{},,False,20,,True,,False,,[],{},,True,,1606323478.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Nissan Motor Co. is the first and only car manufacturer I’ve ever invested in. The company tanked earlier this year and then came the pandemic and things only got worse for them. And they tanked for very good reasons. Their &lt;a href=""https://finance.yahoo.com/news/factbox-rated-one-notch-above-091602153.html?.tsrc=applewf""&gt;debt&lt;/a&gt; is only one step from junk status. Their &lt;a href=""https://uk.finance.yahoo.com/news/nissan-cuts-annual-operating-loss-081055925.html""&gt;losses&lt;/a&gt; the past 18 months have been horrible. That being said, I still see a car manufacturer with huge distribution networks across Asia and a well working production capacity. They make cars on several segments, and they have a clear plan to make high-end EVs. Sure, everyone are talking about doing EVs now, but let’s not forget Nissan did very well in that market space with their Leaf. So early this summer, I bought into the company. It’s been a bumpy ride but the new CEO seems to have a plan and sees a &lt;a href=""https://europe.autonews.com/automakers/nissan-rebound-starts-next-year-ceo-says""&gt;rebound&lt;/a&gt; next year. I believe Nissan can yet again become a steady dividend stock with growth potential. Either that, or the company won’t survive. What’s your view on Nissan?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,,,,False,False,False,False,False,"[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 300, 'id': 'award_28e8196b-d4e9-45bc-b612-cd4c7d3ed4b3', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=16&amp;height=16&amp;auto=webp&amp;s=c1400eb6ea235d0c96c3aa6e271c71d7f339cbd4', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=32&amp;height=32&amp;auto=webp&amp;s=77ad345b2f9b062140e028764394594326771a17', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=48&amp;height=48&amp;auto=webp&amp;s=5b5211166e4b260311ad9f3ea31d3b815110769c', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=64&amp;height=64&amp;auto=webp&amp;s=bf3a2c642ad50547087d770c65c29777970d3af3', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=128&amp;height=128&amp;auto=webp&amp;s=eae06d6a70c62c78dc66cb14f2a84651cb822cc4', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': ""When an upvote just isn't enough, smash the Rocket Like."", 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Rocket Like', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=16&amp;height=16&amp;auto=webp&amp;s=c1400eb6ea235d0c96c3aa6e271c71d7f339cbd4', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=32&amp;height=32&amp;auto=webp&amp;s=77ad345b2f9b062140e028764394594326771a17', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=48&amp;height=48&amp;auto=webp&amp;s=5b5211166e4b260311ad9f3ea31d3b815110769c', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=64&amp;height=64&amp;auto=webp&amp;s=bf3a2c642ad50547087d770c65c29777970d3af3', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=128&amp;height=128&amp;auto=webp&amp;s=eae06d6a70c62c78dc66cb14f2a84651cb822cc4', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png'}]",[],False,False,False,False,,[],False,,,,t5_2qhhq,,,,k0ooxn,True,,MrOaiki,,68,True,all_ads,False,[],False,,/r/investing/comments/k0ooxn/what_are_your_thoughts_on_nissan/,all_ads,False,https://www.reddit.com/r/investing/comments/k0ooxn/what_are_your_thoughts_on_nissan/,1209705,1606294678.0,1,,False
+,investing,"If your question is ""I have $10,000, what do I do?"" or other ""advice for my personal situation"" questions. If you are going to ask how to invest you should include relevant information, such as the following:
+
+* How old are you?
+* Are you employed/making income? How much?
+* What are your objectives with this money? (buy a house? Retirement savings?)
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+* What are you current holdings? (Do you already have exposure to specific funds and sectors?)
+* Any other assets? House paid off? Cars? Expensive significant other?
+* What is your time horizon? Do you need this money next month? Next 20yrs?
+* Any big debts?
+* Any other relevant financial information will be useful to give you a proper answer.
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq 
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!",t2_6l4z3,False,,0,False,Daily Advice Thread - All basic help or advice questions must be posted here.,[],r/investing,False,6,,0,,False,t3_k0r2x0,False,dark,0.78,,public,11,0,{},,False,[],,False,False,,{},,False,11,,True,,False,,[],{},,True,,1606335085.0,text,6,,,text,self.investing,True,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;If your question is &amp;quot;I have $10,000, what do I do?&amp;quot; or other &amp;quot;advice for my personal situation&amp;quot; questions. If you are going to ask how to invest you should include relevant information, such as the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How old are you?&lt;/li&gt;
+&lt;li&gt;Are you employed/making income? How much?&lt;/li&gt;
+&lt;li&gt;What are your objectives with this money? (buy a house? Retirement savings?)&lt;/li&gt;
+&lt;li&gt;What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)&lt;/li&gt;
+&lt;li&gt;What are you current holdings? (Do you already have exposure to specific funds and sectors?)&lt;/li&gt;
+&lt;li&gt;Any other assets? House paid off? Cars? Expensive significant other?&lt;/li&gt;
+&lt;li&gt;What is your time horizon? Do you need this money next month? Next 20yrs?&lt;/li&gt;
+&lt;li&gt;Any big debts?&lt;/li&gt;
+&lt;li&gt;Any other relevant financial information will be useful to give you a proper answer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please consider consulting our FAQ first - &lt;a href=""https://www.reddit.com/r/investing/wiki/faq""&gt;https://www.reddit.com/r/investing/wiki/faq&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",,new,,,False,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_2qhhq,,,,k0r2x0,True,,AutoModerator,,145,False,all_ads,False,[],False,,/r/investing/comments/k0r2x0/daily_advice_thread_all_basic_help_or_advice/,all_ads,False,https://www.reddit.com/r/investing/comments/k0r2x0/daily_advice_thread_all_basic_help_or_advice/,1209705,1606306285.0,0,,False
