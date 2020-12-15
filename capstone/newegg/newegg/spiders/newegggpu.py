@@ -14,7 +14,7 @@ class newegggpu(Spider):
             % page for page in list(range(1, 16))
         ]
         for url in start_urls:
-            yield Request(url = url, callback = self.parse)
+            yield Request(url = url, callback = self.parse) # For each URL, go to parse function
 
     def parse(self, response):
         products = response.xpath('//div[@class = "item-container"]')
