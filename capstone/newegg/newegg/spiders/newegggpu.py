@@ -50,7 +50,7 @@ class newegggpu(Spider):
 
     def productpage(self, response):
         try:
-            specs = response.xpath('//div[@id = "Specs"]/fieldset')
+            specs = response.xpath('/div[@class="tab-nav active"]')
         except Exception as e:
             yield None
         itemdict = {}
