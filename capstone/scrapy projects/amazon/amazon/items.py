@@ -6,7 +6,21 @@
 import scrapy
 
 
-class AmazonItem(scrapy.Item):
+class scrapeGPU(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    productname = Field()
+    brand = Field()
+    model = Field()
+    chipmake = Field()
+    gpu = Field()
+    coreclock = Field()
+    boostclock = Field()
+    memoryclock = Field()
+    memorysize = Field()
+    memoryinterface = Field()
+    memorytype = Field()
+    price = Field()
+    rating = Field()
+    url = Field()
+    rank = Field()

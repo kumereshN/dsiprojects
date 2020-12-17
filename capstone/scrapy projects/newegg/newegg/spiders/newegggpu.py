@@ -64,9 +64,9 @@ class newegggpu(Spider):
         #         itemdict[name[0]] = t.xpath('dd/text()').extract()[0]
         # item = response.meta['item']
 
-        #item = scrapeGPU() # Calls the class scrapeGPU() from item.py
-        #item['brand'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[1]/td')
-        #item['model'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[3]/td')
+        item = scrapeGPU() # Calls the class scrapeGPU() from item.py
+        item['brand'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[1]/td/text()').get()
+        item['model'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[3]/td/text()').get()
 
         # Old Code
         # item['brand'] = itemdict.get('Brand', None)

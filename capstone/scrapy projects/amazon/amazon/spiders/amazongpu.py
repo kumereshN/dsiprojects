@@ -1,7 +1,7 @@
 from scrapy import Spider
 from scrapy.http import Request
 from scrapy.selector import Selector
-from newegg.items import scrapeGPU # Calls the class scrapeGPU() from item.py
+from amazon.items import scrapeGPU # Calls the class scrapeGPU() from item.py
 
 class amazongpu(Spider):
     name = "amazongpu" # Name of the Spider
@@ -63,9 +63,9 @@ class amazongpu(Spider):
         #         itemdict[name[0]] = t.xpath('dd/text()').extract()[0]
         # item = response.meta['item']
 
-        #item = scrapeGPU() # Calls the class scrapeGPU() from item.py
-        #item['brand'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[1]/td')
-        #item['model'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[3]/td')
+        item = scrapeGPU() # Calls the class scrapeGPU() from item.py
+        item['brand'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[1]/td')
+        item['model'] = response.xpath('//*[@id="product-details"]/div[2]/div[2]/table[1]/tbody/tr[3]/td')
 
         # Old Code
         # item['brand'] = itemdict.get('Brand', None)
