@@ -1,6 +1,8 @@
-0	8.33333	price card point performance good memory lower bit power higher money cost 50 sell extra pretty 80 bad expensive case 
-1	8.33333	gpu year amd cpu driver time issue work gpus intel 5700xt monitor end market thing gaming upgrade generation problem ryzen 
-2	8.33333	dl game rtx ray_tracing performance rt feature 4k support 1440p raytracing fps hardware play 0 difference software worse matter similar 
-3	8.33333	card wait stock buy launch lol release order day yeah month gonna cc guess waiting aib reference line today time 
-4	8.33333	3080 3070 6800 6800xt 3090 performance price vram 6900xt benchmark xt 2080ti 500 faster cheaper pricing review number rx 10 
-5	8.33333	amd nvidia people good console thing series pc gen great video competition shit pay company rdna2 make making pretty coming 
+0	6.25	gpu cpu vram lower end power true gaming 16gb case point ryzen fine 8 ram 8gb work higher chip guess 
+1	6.25	rtx year 4k console series pc 1440p good fps gaming monitor run upgrade high 5700xt super 1080p pretty big graphic 
+2	6.25	dl game ray_tracing rt feature support raytracing hardware 0 lot work worse software video similar tech care future title working 
+3	6.25	price 3070 6800 xt 500 2080ti faster 50 pricing rx cost extra 80 bit expensive pay 100 worth 20 close 
+4	6.25	3080 3090 6800xt wait 6900xt benchmark memory 10 cheaper review number difference pretty rage_mode beat competitor slightly comparison showed thought 
+5	6.25	people buy driver time issue good bad reason sell product problem buying point shit bought money literally making dont msrp 
+6	6.25	amd nvidia card intel good market compete competition company release generation high_end ampere competitive level rdna2 gen hard consumer marketing 
+7	6.25	card stock launch order day gonna waiting cc aib reference line month today coming hope week guy ago model release 
