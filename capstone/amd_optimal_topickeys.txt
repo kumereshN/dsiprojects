@@ -1,6 +1,7 @@
-0	8.33333	gpu year cpu driver wait benchmark issue memory work series review number rx upgrade gonna 5700xt problem true fine ryzen 
-1	8.33333	people good buy time gaming point price bad money lot reason product pretty care sell buying feel shit case card 
-2	8.33333	amd nvidia card lower end intel power gen generation console compete market competition big high_end rdna2 pricing competitive expect higher 
-3	8.33333	stock launch card pc order day monitor hope waiting cc aib reference line today coming week edit guy nice model 
-4	8.33333	3080 3070 6800 price 3090 6800xt vram 6900xt xt 500 2080ti faster 50 bit cheaper rtx cost worth extra difference 
-5	8.33333	dl game ray_tracing rt feature 4k rtx support 1440p raytracing fps hardware play 0 run high console software matter 1080p 
+0	7.14286	cpu gpu 4k rtx 1440p power higher fps review memory number series lower ryzen rage_mode 1080p ampere 4 radeon 8 
+1	7.14286	3080 3070 6800 6800xt vram 6900xt benchmark xt 2080ti faster 50 price 10 cheaper pricing 500 rx worth difference extra 
+2	7.14286	amd nvidia price 3090 card gaming end gen cost market generation compete 5700xt competition high_end competitive level expect match budget 
+3	7.14286	year driver game console issue gpu work good time pc intel lot play run monitor upgrade high problem pretty matter 
+4	7.14286	card wait stock launch release order day month gonna hope waiting cc aib reference line today week guy ago dont 
+5	7.14286	people buy good point time bad money reason product sell buying true feel bought literally company make making case msrp 
+6	7.14286	amd dl nvidia game ray_tracing rt feature support raytracing rtx big hardware 0 worse software care tech rdna2 title huge 
