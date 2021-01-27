@@ -1,115 +1,69 @@
-# Background
-West Nile virus (WNV) is the leading cause of mosquito-borne disease in the United States.
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone: Topic modeling on AMD and Nvidia's GPU release
 
-While only round 20% of people who become infected with the virus develop symptoms (ranging from mild symptoms like a persistent fever, to serious neurological illnesses that can result in death), cost of medical treatment can be high. As per the Centers for Disease Control and Prevention, no vaccine or specific antiviral treatments are available. As such, prevention of the disease relies largely on management of mosquitos through various control tactics.
+### N Kumeresh, DSI-18-Singapore
 
-In 2002, the first human cases of WNV were reported in Chicago. By 2004, the City of Chicago and the Chicago Department of Public Health (CDPH) established a comprehensive surveillance and control program that is still in effect today. Every week from late spring through the fall, mosquitos in traps across the city are tested for the virus. The results of these tests influence when and where the city will spray airborne pesticides to control adult mosquito populations.
+## Problem Statement
 
-# Analysis and Predictive Modeling
+As a data scientist working in Intel, Intel is looking forward to releasing their first GPU into the market. Based on our research, the fanbase primarily resides in their own respective subreddit, r/AMD and r/Nvidia. We want to analyze the reddit comments in Nvidia and AMD's subreddit, revolving around the release of the new GPU. In order to do this, we'll be conducting topic modeling on the comments and it'll provide us a high level view of what consumers are expecting from the release of these new gpus and ensure a smooth release of our GPUs into the market. The main metric will be in **interpreting the topics** and the secondary metric will be the **topic coherence scores**.
 
-This project aimed to provide aggregated analysis of weather, spray and trap data in the city of Chicago during the period 2007 to 2013, for the purpose of constructing a predictive model for forecasting occurrences of WNV.
+## Executive Summary
 
-After thorough data cleaning and exploratory analysis, we ran 10 models using Logistic Regression, K Nearest Neighbors, Decision Trees, Bagging Tree, Gradient Boosting, Extra Trees, Random Forest, ada Boost, SVC and XG Boost. As the classes were heavily unbalanced, we used the Synthetic Minority Oversampling TEchnique (SMOTE) as a means to oversample the positive class (WNV-present).
+Intel is working to release their first discrete Graphic Processing Unit (GPU)(s) into the market this year. The GPU will feature all the horsepower from modern gaming oriented GPU such as ray tracing and tons of horsepower for up to 4k enthusiast tier performance. It'll be competing against AMD RDNA 2 and Nvidia's Ampere lineup. To ensure that the GPU market is primed to receive Intel's first GPU, we would want to further understand in depth on what the market is looking out for when AMD and Nvidia's release their respective GPU and as we expect a similar reaction when we release our GPU.
 
-For model evaluation, we recorded train and test scores, ROC scores, specificity, sensitivity and F1 scores for each of the 10 models. We settled on sensitivity as our key evaluation metric. This was as a result of our established priority to reduce the incidences of false negatives (predicted as WNV-negative, when in reality that trap is WNV-positive). While presence of false positives would technically drive down the overall accuracy score, especially when the majority class is WNV-negative, it obscures the reality that the high cost of patient treatment for WNV illness far surpasses the cost of mosquito surveillance measures.
+## Conclusion and recommendation
 
-Although the Gradient Boosting and XG Boost models performed best in terms of accuracy (0.90 and 0.93 respectively), both models had rather low sensitivity scores (0.27 and 0.14 respectively), i.e. they did not do a great job of predicting the positive class (presence of the WNV). In this regard, Logistic Regression, Decision Tree and AdaBoost classifiers come out on top, with sensitivity scores of 0.81, 0.78 and 0.71 and ROC-AUC scores of 0.77, 0.75 and 0.77 respectively. Ultimately, Logistic Regression was chosen as the production model as it had the highest sensitivity score (0.81) and ROC-AUC score (0.77) amongst all the models.
+## Limitations
+* As it's is a unsupervised type of model, it requires a lot of high quality data for interpretable topics to be formed
 
-Upon evaluating the coefficients from the Logistic Regression model, Week of Year had the strongest coefficient value. Other time-centric features like month_of_year also tended to influence the outcome of WNV occurrence.
+* It's not as accurate as topic classification models
+* Not able to gain meaningful insights on the consumer behaviours.
 
-WetBulb had the second strongest coefficient value. The positive value indicated that a high wet-bulb temperature would contribute to the likelihood of a trap being classified as WNV-positive. Other weather-centric features, particularly the historical weather features such as WetBulb_mean_past7day, Tavg_mean_past14day and Tavg_mean_past7day also featured in the top 15 features. Interestingly, dew point had a strong negative coefficient, seemingly indicating that lower humidity leads to higher likelihood of WNV occurrence. The earlier EDA phase revealed inconsistent trends when monthly mean dew point was plotted against mosquito-count and WNV-occurrence. Based on this coefficient analysis, perhaps historical dew point feature may shed more light as to whether a certain level of humidity in a preceding period could have an impact on WNV occurrence.
+### Summary of findings
+The launch around AMD and Nvidia's GPUs have provided interesting highlights in what consumers are looking out for when purchasing GPUs. The below summarizes the findings: 
 
-Culex Territans species was seen to have a negative coefficient, mostly owing to the fact that it is not one of the carrier species of WNV, thus presence of this species in an observation would lower the likelihood of WNV prediction.
+Note: The sentences highlighted in bold are present commonly in both subreddits.
 
-# Model Limitations
+AMD
+* **LDA's mallet coherence score is slightly higher compared to LDA's coherence score and the topics are more interpretable as well.**
+* Stock availability is the most assigned topic to the documents with over 2500 documents. Consumers are concerned with the availability to purchase the GPUs.
+* Consumer making a purchase is the least assigned topic, which suggests that consumers are have high purchasing power.
+* **4k resolution has a higher topic weight compared 1440p resolution which suggests that these GPUs are targeted towards the enthusiast crowd.**
+* **Nvidia's RTX 3070 and 3080 seems to be the most popular models, given their high word count and topic weightage.**
+* Ray tracing and dlss (Deep learning super sampling) are coveted features among consumers.
 
-It is worth noting that the model is limited to usage within Chicago as weather patterns differs within states and countries, as do the species of mosquitos.
 
-Official cost figures of the spray were unavailable and the frequency of spray count was inconsistent. As a result, we cannot further view a trend between the number of mosquitos and the spray count.
+Nvidia
+* **LDA's mallet coherence is slightly higher compared to LDA's coherence score and I find the topics to be more interpretable.**
+* Discussion on GPU models seem to be the most discussed with over 4000 documents. It seems that the consumers desire to upgrade their current GPU.
+* **3080 is the most popular GPU given the high word count and the topic weightage, followed by the 3090**
+* **4k resolution is the most talked about compared to 1440p resolution given it's high word count and the topic weightage.**
+* The amount of vram in a gpu also plays a crucial role as the larger resolution, the more video ram being consumed.
 
-As the spray data was dropped during the EDA process, only inputs from train, especially the trap, and the weather dataset were used to build the final production model. Hence, the cost benefit effectiveness of the spray cannot be measured as the model only measures against certain weather patterns.
+---
 
-# Cost-Benefit Analysis  
+### Datasets
 
-According to a study on the outbreak of WNV disease in Sacramento County, California in 2005, treatment costs for patients were approximately USD 2,140,409 and the total costs including productivity loss was approximately USD 2,844,338 (across 46 patients). This amounts to roughly USD46,500 per person for medical costs and USD15,500 per person in terms of productivity loss. Based on the average number of cases in Chicago in the past 3 years (roughly 50), total expected loss amounts to approximately USD 3.1 million.
+* amd_gpu.csv
+* cleaned_combined_df.csv
+* combined_df.csv
+* radeon_rx_6000.csv
+* rtx_3000.csv
+* rtx_3060ti.csv
+* rtx_3070.csv
+* rtx_3080.csv
+* rtx_3080_3090_leak.csv
+* rtx_3080ti_priced.csv
+* rtx_3090.csv
+* rtx_3090_memory.csv
+* rtx_3090vs3080vs3070.csv
+* rx_6000_nov_18.csv
+* rx_6000_rdna2.csv
+* scalper_warning.csv
 
-On the other hand, spray procedures based on bi-weekly spray of traps and hotspots during breeding season (assumed to be 6 months) is estimated to cost roughly USD 706,320 (USD 155,520 to spray traps + USD 550,800 for sprays in the city).
+---
+## Data Dictionary
 
-Overall, estimated costs in terms of medical treatment and productivity loss far exceed the spray costs. This reiterated the project's focus on reducing false negatives as the medical and human costs of the virus spreading are much higher than any potential additional expenditure on vector control which may be incurred as a result of executing mosquito surveillance measures on false positives.
-
-# Conclusion
-The production model did a decent job in providing the most predictive features. The model can be used to help the city in identifying potential outbreaks. As the model has the least False negatives among the other models, it's more likely to detect the areas with WNV presence in them. Combined with vigilant monitoring on the ground and educating the public on the prevention of mosquitoes breeding, we believe that this could significantly decrease the number of mosquitoes as well as the West Nile Virus presence.
-
-Should resources permit, we can also do a study on reducing the number of reservoir host (Dead Bird) within the city to effectively kill the source of the WNV.
-
-# Data Dictionary
-Based on train_final_v2_daylight.csv features used for selected production model.
-
-| Column               | Type  | Origin                               | Description                                                                                     |
-|----------------------|-------|--------------------------------------|-------------------------------------------------------------------------------------------------|
-| Latitude            | float | train.csv                                   |  Latitude of trap                                        |
-| Longitude        | float   | train.csv                            | Longitude of trap                                        |
-| WnvPresent        | int   | train.csv                                   | Whether West Nile Virus is present (1 denotes present, 0 denotes absent)                   |
-| species_culex_erraticus   | int | Feature Engineered                                  | Whether the Culex Erraticus species is present in trap (1 denotes present, 0 denotes absent)        |
-| species_culex_pipiens           | int                              |  Feature Engineered                         | Whether the Culex Pipiens species is present in trap (1 denotes present, 0 denotes absent)                |
-| species_culex_pipiens_restuans       | int                             | Feature Engineered                          | Whether the Culex Pipiens-Restuans species is present in trap (1 denotes present, 0 denotes absent)                               |
-| species_culex_restuans       | int                             | Feature Engineered                          | Whether the Culex Restuans species is present in trap (1 denotes present, 0 denotes absent)                                   |
-| species_culex_salinarius       | int                             | Feature Engineered                          | Whether the Culex Salinarius species is present in trap (1 denotes present, 0 denotes absent)                                |
-| species_culex_tarsalis       | int                             | Feature Engineered                          | Whether the Culex tarsalis species is present in trap (1 denotes present, 0 denotes absent)                                |
-| species_culex_territans      | int                             | Feature Engineered                          | Whether the Culex Territans species is present in trap (1 denotes present, 0 denotes absent)                                  |
-| species_unspecified_culex       | int                             | Feature Engineered                          | Whether the unspecified Culex species is present in trap (1 denotes present, 0 denotes absent)                                   |
-| month_of_year        | int                             | Feature Engineered                          | Month of the year                                 |
-| week_of_year       | int                             | Feature Engineered                          | Week of the Year                                 |
-| Tavg       | int                             | weather.csv                         | Average temperature in Degrees Fahrenheit                                |
-| Depart      | int                             | weather.csv                         | Departure from 30 year normal temperature for the particular date. A minus (-) is number of degrees below normal. A zero (0) indicates that the average for that day was the normal.                                |
-| DewPoint      | int                             | weather.csv                         | Average dew point in Degrees Fahrenheit                                |
-| WetBulb      | int                             | weather.csv                         | Average wet bulb in Degrees Fahrenheit                                |
-| Heat     | int                             | weather.csv                         | Heating measured in degree days (base 65 Degree Fahrenheit, season begins with July)   |
-| Cool     | int                             | weather.csv                         | Cooling measured in degree days (base 65 Degree Fahrenheit, season begins with January)     |
-| PrecipTotal     | float                             | weather.csv                         | Water equivalent of rainfall and melted snow in inches     |
-| StnPressure     | float                            | weather.csv                         | Average station pressure (inches of hg)   |
-| SeaLevel     | float                             | weather.csv                         | Average sea level pressure (inches of hg)    |
-| ResultSpeed     | float                             | weather.csv                         | Resultant wind speed in miles per hour     |
-| ResultDir    | int                             | weather.csv                         | Resultant direction (Whole degrees)     |
-| AvgSpeed     | float                             | weather.csv                         | Average wind speed in miles per hour     |
-| CodeSum_BR    | int                             | Feature Engineered                         | Presence of mist ((1 denotes present, 0 denotes absent)    |
-| CodeSum_DZ    | int                           | Feature Engineered                         | Presence of drizzle ((1 denotes present, 0 denotes absent)     |
-| CodeSum_FG    | int                             | Feature Engineered                         | Presence of fog (1 denotes present, 0 denotes absent)     |
-| CodeSum_HZ    | int                             | Feature Engineered                         | Presence of haze (1 denotes present, 0 denotes absent)     |
-| CodeSum_RA    | int                             | Feature Engineered                         | Presence of rainfall (1 denotes present, 0 denotes absent)     |
-| CodeSum_TS    | int                             | Feature Engineered                         | Presence of thunderstorm (1 denotes present, 0 denotes absent)     |
-| CodeSum_TSRA    | int                             | Feature Engineered                         | Presence of thunderstorm and rainfall (1 denotes present, 0 denotes absent)     |
-| CodeSum_VCTS    | int                             | Feature Engineered                         | Presence of thunderstorm in the vicinity (1 denotes present, 0 denotes absent)     |
-| Tavg_mean_past7day   | float                             | Feature Engineered                         | Tavg mean in the past 7 days     |
-| WetBulb_mean_past7day    | float                             | Feature Engineered                         | WetBulb mean in the past 7 days     |
-| Heat_mean_past7day    | float                            | Feature Engineered                         | Heat mean in the past 7 days     |
-| Cool_mean_past7day    | float                           | Feature Engineered                         | Cool mean in the past 7 days     |
-| AvgSpeed_mean_past7day     | float                            | Feature Engineered                         | Tavg mean in the past 7 days     |
-| PrecipTotal_mean_past7day    | float                            | Feature Engineered                         | PrecipTotal mean in the past 7 days     |
-| CodeSum_RA_sum_past7day    | int                             | Feature Engineered                         | Presence of rainfall in the past 7 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_TSRA_sum_past7day    | int                             | Feature Engineered                         | Presence of thunderstorm and rainfall in the past 7 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_DZ_sum_past7day    | int                             | Feature Engineered                         | Presence of drizzle in the past 7 days (1 denotes present, 0 denotes absent)     |
-| Tavg_mean_past14day     | float                             | Feature Engineered                         | Tavg mean in the past 14 days     |
-| WetBulb_mean_past14day     | float                            | Feature Engineered                         | WetBulb mean in the past 14 days     |
-| Heat_mean_past14day    | float                            | Feature Engineered                         | Mean Heat in the past 14 days     |
-| Cool_mean_past14day     | float                            | Feature Engineered                         | Cool mean in the past 14 days     |
-| AvgSpeed_mean_past14day     | float                            | Feature Engineered                         | Mean AvgSpeed in the past 14 days  |
-| PrecipTotal_mean_past14day    | float                            | Feature Engineered                         | PrecipTotal mean in the past 14 days     |
-| CodeSum_RA_sum_past14day    | int                            | Feature Engineered                         | Presence of rainfall in the past 14 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_TSRA_sum_past14day    | minutes                             | Feature Engineered                         | Presence of thunderstorm and rainfall in the past 14 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_DZ_sum_past14day    | int                            | Feature Engineered                         | Presence of drizzle in the past 14 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_RA_sum_past21day   | int                            | Feature Engineered                         | Presence of rainfall in the past 21 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_TSRA_sum_past21day    | int                             | Feature Engineered                         | Presence of thunderstorm and rainfall in the past 21 days (1 denotes present, 0 denotes absent)     |
-| CodeSum_DZ_sum_past21day    | int                             | Feature Engineered                         | Presence of drizzle in the past 21 days (1 denotes present, 0 denotes absent)     |
-| Daylight_duration_in_minutes    | float                             | Feature Engineered                         | Duration of daylight in minutes derived from Sunrise and Sunset timing from weather.csv     |
-
-# Sources
-1) [Centers for Disease Control and Prevention](https://www.cdc.gov/westnile/index.html)
-
-2) [West Nile Virus: An Historical Overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3111838/)
-
-3) [Economic Cost Analysis of West Nile Virus Outbreak, Sacramento County, California, USA, 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322011/#R6)
-
-4) [Economic Cost Analysis of West Nile Virus Outbreak, Sacramento County, California, USA, 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322011/#R6) 
-
-5) [Healthy Chicago Data Brief West Nile Virus](https://www.chicago.gov/content/dam/city/depts/cdph/food_env/general/West_Nile_Virus/WNV_2018databrief_FINALJan102019.pdf)
+| Feature         | Datatype | Description                                               |
+|-----------------|----------|-----------------------------------------------------------|
+| Reddit comments | string   | Reddit comments scrapped from their respective subreddits |
+| tag             | string   | tags are either Nvidia or Amd                             |
