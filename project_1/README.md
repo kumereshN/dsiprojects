@@ -47,26 +47,26 @@ Comparisons were made at these sites:
 ---
 ## Data Dictionary
 
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|state|object|final.csv|State of the data| 
-|sat_17_participation|float|final.csv|State participation rate in 2017|
-|sat_17_erw|integer|final.csv|State average Evidence-Based Reading and Writing score in 2017|
-|sat_17_math|integer|final.csv|State average Math score in 2017|
-|sat_17_total|integer|final.csv|State average Total score in 2017|
-|act_17_participation|float|final.csv|State participation rate in 2017|
-|act_17_english|float|final.csv|State average English score in 2017|
-|act_17_math|float|final.csv|State average Math score in 2017|
-|act_17_reading|float|final.csv|State average Reading score in 2017|
-|act_17_science|float|final.csv|State average Science score in 2017|
-|act_17_composite|float|final.csv|State average Composite score in 2017|
-|sat_18_participation|float|final.csv|State participation rate in 2018|
-|sat_18_erw|integer|final.csv|State average Evidence-Based Reading and Writing score in 2018|
-|sat_18_math|integer|final.csv|State average Math score in 2018|
-|sat_18_total|integer|final.csv|State average Total score in 2018|
-|act_18_participation|float|final.csv|State participation rate in 2018|
-|act_18_english|float|final.csv|State average English score in 2018|
-|act_18_math|float|final.csv|State average Math score in 2018|
-|act_18_reading|float|final.csv|State average Reading score in 2018|
-|act_18_science|float|final.csv|State average Science score in 2018|
-|act_18_composite|float|final.csv|State average Composite score in 2018|
+|Feature|Type|Dataset|Description|Range|
+|---|---|---|---|---|
+|state|object|final.csv|State of the data|NA|
+|sat_17_participation|float|final.csv|State participation rate in 2017|2-100|
+|sat_17_erw|integer|final.csv|State average Evidence-Based Reading and Writing score in 2017|482-644|
+|sat_17_math|integer|final.csv|State average Math score in 2017|468-651|
+|sat_17_total|integer|final.csv|State average Total score in 2017|950-1295|
+|act_17_participation|float|final.csv|State participation rate in 2017|8-100|
+|act_17_english|float|final.csv|State average English score in 2017|16.3-25.5|
+|act_17_math|float|final.csv|State average Math score in 2017|18-25.3|
+|act_17_reading|float|final.csv|State average Reading score in 2017|18.1-26.0|
+|act_17_science|float|final.csv|State average Science score in 2017|18.2-24.9|
+|act_17_composite|float|final.csv|State average Composite score in 2017|17.8-25.5|
+|sat_18_participation|float|final.csv|State participation rate in 2018|2-100|
+|sat_18_erw|integer|final.csv|State average Evidence-Based Reading and Writing score in 2018|480-643|
+|sat_18_math|integer|final.csv|State average Math score in 2018|480-655|
+|sat_18_total|integer|final.csv|State average Total score in 2018|977-1298|
+|act_18_participation|float|final.csv|State participation rate in 2018|7-100|
+|act_18_english|float|final.csv|State average English score in 2018|16.6-26.0|
+|act_18_math|float|final.csv|State average Math score in 2018|17.8-25.2|
+|act_18_reading|float|final.csv|State average Reading score in 2018|18.0-26.1|
+|act_18_science|float|final.csv|State average Science score in 2018|17.9-24.9|
+|act_18_composite|float|final.csv|State average Composite score in 2018|17.7-25.6|
